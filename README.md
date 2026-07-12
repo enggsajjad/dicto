@@ -23,3 +23,7 @@ Recommended word types: `noun`, `verb`, `adjective`, `adverb`, `phrase`, `prepos
 
 ## Important
 The imported vocabulary and design originated from the supplied dictionary file. Review licensing/permission before publishing copied vocabulary publicly.
+
+## Classification field
+
+Every vocabulary object now contains a `classification` field. It may contain a lesson and section, for example `Lektion 3 – Maria Carreras bewirbt sich um eine neue Stelle | Verben | Verb mit Präposition`, or a special label such as `Nomen-Verb-Verbindung`. When no explicit classification is available, its value is an empty string (`""`).
