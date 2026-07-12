@@ -1,34 +1,26 @@
-# Generalized German Dictionary
-Sajjad
-A GitHub Pages-ready searchable dictionary for **A1, A2, B1, B2, C1, C2 and BSK_B2**.
+# Generalized German Dictionary — Separate JSON version
 
-## Included
-- `index.html` — website, search, filters, dark mode, 20/30-word tests
-- `words.json` — 4773 imported dictionary entries
-- `words-template.json` — examples for adding new words, including BSK_B2
+Upload these four files to the **same folder** in your GitHub repository:
 
-## Publish on GitHub Pages
-1. Create a new public GitHub repository.
-2. Upload `index.html`, `words.json`, and `words-template.json` to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select branch `main` and folder `/ (root)`, then save.
-6. GitHub will provide a URL like `https://USERNAME.github.io/REPOSITORY/`.
+- `index.html`
+- `dictionary.html`
+- `words.json` — A1 to C2 vocabulary
+- `BSK_B2_words.json` — BSK_B2 vocabulary
 
-## Add a word
-Open `words.json` and add a JSON object before the final `]`. Put a comma after the previous object.
-Use exactly one of these levels: `A1`, `A2`, `B1`, `B2`, `C1`, `C2`, `BSK_B2`.
+The HTML loads both JSON files and combines them in the browser. Do not rename the JSON files unless you also change the names inside `index.html` and `dictionary.html`.
 
-Recommended word types: `noun`, `verb`, `adjective`, `adverb`, `phrase`, `preposition`, `conjunction`.
+## GitHub Pages
 
-## Important
-The imported vocabulary and design originated from the supplied dictionary file. Review licensing/permission before publishing copied vocabulary publicly.
+After pushing, open the GitHub Pages URL. Do not open the HTML by double-clicking it locally, because browsers may block `fetch()` for local files.
 
-## Classification field
+If your old site still appears, use `Ctrl + F5`, clear site data, or open the page in a private window. The loader uses a version query string to reduce stale JSON caching.
 
-Every vocabulary object now contains a `classification` field. It may contain a lesson and section, for example `Lektion 3 – Maria Carreras bewirbt sich um eine neue Stelle | Verben | Verb mit Präposition`, or a special label such as `Nomen-Verb-Verbindung`. When no explicit classification is available, its value is an empty string (`""`).
+Expected counts:
+
+- A1–C2: 4,773
+- BSK_B2: 1,467
+- Total: 6,240
 
 
-## Important data file
-
-`index.html` loads `words.json`. This package contains all A1–C2 and BSK_B2 entries in that file (6,240 total). Upload `index.html` and `words.json` to the same GitHub folder.
+## Classification search
+Use the second search field to filter by lesson or vocabulary type, for example `Lektion 1`, `Nomen`, `Nomen-Verb-Verbindung`, or `Verb mit Präposition`. The suggestions are generated automatically from the `classification` field in both JSON files.
