@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BSK_B2 Vokabeltest | Sajjad German</title>
+<link rel="icon" href="favicon.ico" sizes="any"><link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png"><link rel="apple-touch-icon" href="apple-touch-icon.png">
+<style>
+:root{--bg:#f5f4f0;--card:#fff;--text:#172033;--muted:#667085;--border:#e1e4e8;--accent:#123b7a;--accent2:#e11d2e}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,sans-serif}.wrap{max-width:1050px;margin:auto;padding:1.2rem}.brand{display:flex;align-items:center;gap:.8rem}.brand img{width:58px;height:58px;border-radius:14px}.brand h1{font-size:clamp(1.45rem,3vw,2.2rem);margin:0}.brand p{margin:.15rem 0 0;color:var(--muted)}nav{display:flex;gap:.5rem;flex-wrap:wrap;margin:1.15rem 0}nav a{padding:.5rem .8rem;border:1px solid var(--border);border-radius:999px;text-decoration:none;color:var(--text);font-weight:700;background:#fff}nav a.active{background:var(--accent);color:white;border-color:var(--accent)}.hero{background:linear-gradient(135deg,#fff,#eef3fb);border:1px solid var(--border);border-radius:18px;padding:1.4rem;margin-bottom:1rem}.hero h2{margin:0 0 .35rem}.hero p{margin:0;color:var(--muted);line-height:1.55}.controls{display:flex;gap:.75rem;flex-wrap:wrap;margin:1rem 0}.controls input{flex:1;min-width:240px;padding:.8rem 1rem;border:1px solid var(--border);border-radius:10px;font:inherit}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(245px,1fr));gap:1rem}.test-card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:1.15rem;display:flex;flex-direction:column;min-height:205px;box-shadow:0 4px 14px rgba(15,23,42,.05)}.test-icon{font-size:2rem}.test-card h3{margin:.65rem 0 .35rem}.test-card p{color:var(--muted);margin:0 0 1rem;line-height:1.45}.tag{font-size:.75rem;background:#eef3fb;color:var(--accent);padding:.28rem .55rem;border-radius:999px;width:max-content}.start{margin-top:auto;text-decoration:none;text-align:center;background:var(--accent);color:#fff;padding:.7rem;border-radius:9px;font-weight:700}.start:hover{background:#0b2f67}.empty{padding:2rem;text-align:center;color:var(--muted);display:none}.note{margin-top:1.2rem;color:var(--muted);font-size:.92rem}.note code{background:#fff;padding:.1rem .3rem;border:1px solid var(--border);border-radius:5px}
+</style></head>
+<body><main class="wrap">
+<header class="brand"><img src="sajjad-hussain-icon.png" alt="Sajjad German Logo"><div><h1>BSK_B2 Vokabeltest</h1><p>Berufsbezogene Deutsch-Vokabeltests</p></div></header>
+<nav><a href="dictionary.html">📖 Wörterbuch</a><a href="redemittel.html">💬 Redemittel & Verbindungen</a><a class="active" href="bsk-b2-vokabeltest.html">🧠 Vokabeltest</a></nav>
+<section class="hero"><h2>Test auswählen</h2><p>Jeder Test behält sein ursprüngliches Aufgabenmuster mit Multiple Choice, Lückentext und Wort-Definition-Übungen. Weitere Tests können später über <code>vokabeltests.json</code> ergänzt werden.</p></section>
+<div class="controls"><input id="search" type="search" placeholder="Test suchen, z. B. Karriere oder Kommunikation …" aria-label="Vokabeltest suchen"></div>
+<section class="grid" id="grid"></section><div class="empty" id="empty">Kein passender Test gefunden.</div>
+<p class="note"><strong>Erweiterbar:</strong> Eine neue Testdatei hochladen und einen Eintrag in <code>vokabeltests.json</code> hinzufügen.</p>
+</main>
+<script>
+const fallback=[{"title": "Arbeitsrecht & Mitbestimmung", "subtitle": "14 Begriffe", "icon": "⚖️", "file": "vokabeltest-arbeitsrecht.html", "level": "BSK_B2"}, {"title": "Gleichstellung & Arbeitswelt", "subtitle": "11 Begriffe", "icon": "⚧️", "file": "vokabeltest-gleichstellung.html", "level": "BSK_B2"}, {"title": "Berufliche Entwicklung & Karriere", "subtitle": "15 Ausdrücke", "icon": "🚀", "file": "vokabeltest-karriere.html", "level": "BSK_B2"}, {"title": "Kommunikation am Arbeitsplatz", "subtitle": "13 Begriffe", "icon": "💬", "file": "vokabeltest-kommunikation.html", "level": "BSK_B2"}];
+let tests=[];
+async function load(){try{const r=await fetch('vokabeltests.json?v=20260712',{cache:'no-store'});if(!r.ok)throw new Error();tests=await r.json()}catch(e){tests=JSON.parse(fallback)}render()}
+function render(){const q=document.getElementById('search').value.trim().toLowerCase();const shown=tests.filter(t=>(t.title+' '+t.subtitle+' '+t.level).toLowerCase().includes(q));document.getElementById('grid').innerHTML=shown.map(t=>`<article class="test-card"><div class="test-icon">${t.icon||'🧠'}</div><span class="tag">${t.level||'BSK_B2'}</span><h3>${t.title}</h3><p>${t.subtitle}</p><a class="start" href="${t.file}">Test starten →</a></article>`).join('');document.getElementById('empty').style.display=shown.length?'none':'block'}
+document.getElementById('search').addEventListener('input',render);load();
+</script></body></html>

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Arbeitsrecht & Mitbestimmung",
+    "subtitle": "14 Begriffe",
+    "icon": "⚖️",
+    "file": "vokabeltest-arbeitsrecht.html",
+    "level": "BSK_B2"
+  },
+  {
+    "title": "Gleichstellung & Arbeitswelt",
+    "subtitle": "11 Begriffe",
+    "icon": "⚧️",
+    "file": "vokabeltest-gleichstellung.html",
+    "level": "BSK_B2"
+  },
+  {
+    "title": "Berufliche Entwicklung & Karriere",
+    "subtitle": "15 Ausdrücke",
+    "icon": "🚀",
+    "file": "vokabeltest-karriere.html",
+    "level": "BSK_B2"
+  },
+  {
+    "title": "Kommunikation am Arbeitsplatz",
+    "subtitle": "13 Begriffe",
+    "icon": "💬",
+    "file": "vokabeltest-kommunikation.html",
+    "level": "BSK_B2"
+  }
+]

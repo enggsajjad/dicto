@@ -119,3 +119,34 @@ This project is intended for personal learning and educational use. Confirm that
 
 **Viel Erfolg beim Deutschlernen!**  
 **Good luck learning German!**
+
+
+## 🧠 BSK_B2 Vokabeltests
+
+The website includes an expandable vocabulary-test area at `bsk-b2-vokabeltest.html`.
+
+Current tests:
+
+- Arbeitsrecht & Mitbestimmung
+- Gleichstellung & Arbeitswelt
+- Berufliche Entwicklung & Karriere
+- Kommunikation am Arbeitsplatz
+
+Each test preserves its original exercise modes: **Multiple Choice**, **Lückentext**, and **Wort/Ausdruck → Definition**.
+
+### Add another test
+
+1. Add the new standalone HTML test file to the repository root.
+2. Add one object to `vokabeltests.json`:
+
+```json
+{
+  "title": "Name des Tests",
+  "subtitle": "Anzahl der Begriffe",
+  "icon": "🧠",
+  "file": "vokabeltest-neu.html",
+  "level": "BSK_B2"
+}
+```
+
+The test selection page will display it automatically.
