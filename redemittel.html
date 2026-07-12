@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="de" data-bs-theme="light"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BSK B2 – Redemittel & Verbindungen</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f5f7fb;--text:#1f2937;--muted:#64748b;--card:#fff;--border:#e5e7eb;--soft:#f8fafc;--accent:#1d4ed8;--example:#eef4ff}
+[data-bs-theme=dark]{--bg:#0f172a;--text:#e2e8f0;--muted:#94a3b8;--card:#1e293b;--border:#334155;--soft:#172033;--example:#162443}
+body{background:var(--bg);color:var(--text);font-family:Inter,sans-serif}.shell{background:var(--card);border-radius:1rem;box-shadow:0 .5rem 1.25rem rgba(0,0,0,.08)}
+.topnav{display:flex;gap:.5rem;flex-wrap:wrap}.topnav a{text-decoration:none;border:1px solid var(--border);padding:.45rem .8rem;border-radius:999px;color:var(--text);font-weight:700}.topnav a.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+.controls{position:sticky;top:0;z-index:20;background:var(--bg);padding:.7rem 0}.searchbox,.selectbox{width:100%;padding:.72rem .9rem;border:2px solid var(--border);border-radius:.7rem;background:var(--card);color:var(--text)}
+.main-tabs button{border:1px solid var(--border);background:transparent;color:var(--muted);font-weight:800;border-radius:.7rem;padding:.6rem 1rem}.main-tabs button.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+.lesson{border:1px solid var(--border);border-radius:.9rem;overflow:hidden;margin-bottom:1rem}.lesson-title{background:var(--soft);padding:.85rem 1rem;font-weight:800}.section-title{padding:.8rem 1rem .25rem;font-weight:800;color:var(--accent)}
+.red-card{margin:.65rem 1rem;padding:.85rem 1rem;border-left:5px solid var(--accent);background:var(--card);border-radius:.65rem;box-shadow:0 .15rem .5rem rgba(0,0,0,.05)}
+.redemittel{font-size:1.03rem;font-weight:800}.example{margin-top:.6rem;padding:.6rem .75rem;background:var(--example);border-radius:.55rem}.example-label{font-size:.72rem;text-transform:uppercase;letter-spacing:.04em;font-weight:800;color:var(--accent)}
+.special{margin:1rem;padding:1rem;background:var(--soft);border:1px dashed var(--border);border-radius:.7rem}.special h4{font-size:1rem;font-weight:800}.special-line{white-space:pre-wrap;margin:.25rem 0}
+.connection-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:.7rem;padding:1rem}.connection-card{border:1px solid var(--border);border-radius:.7rem;padding:.85rem;background:var(--card)}.connection-de{font-weight:800}.connection-en{color:var(--muted);margin-top:.25rem}
+.status{color:var(--muted);font-size:.85rem}.hidden{display:none!important}@media(max-width:600px){.connection-grid{grid-template-columns:1fr}.shell{padding:1rem!important}}
+</style></head><body><main class="container py-4"><section class="shell p-4 p-md-5">
+<div class="d-flex justify-content-between align-items-start gap-3 flex-wrap mb-3"><div><h1 class="h3 mb-1">💬 Wichtige Redemittel & Verbindungen</h1><p class="text-secondary mb-0">BSK B2 · lektionweise · mit hervorgehobenen Redemitteln und getrennten Beispielen</p></div><button id="themeBtn" class="btn btn-sm btn-outline-secondary">🌙 Theme</button></div>
+<nav class="topnav mb-4"><a href="dictionary.html">📖 Wörterbuch</a><a class="active" href="redemittel.html">💬 Redemittel & Verbindungen</a></nav>
+<div class="main-tabs d-flex gap-2 flex-wrap mb-3"><button class="active" data-tab="redemittel">Wichtige Redemittel</button><button data-tab="verbindungen">Verbindungen für Besprechungen</button></div>
+<div class="controls"><div class="row g-2"><div class="col-md-8"><input id="search" class="searchbox" placeholder="Redemittel, Beispiel, Verbindung oder englische Bedeutung suchen …"></div><div class="col-md-4"><select id="lessonFilter" class="selectbox"><option value="ALL">Alle Lektionen</option></select></div></div></div>
+<div id="status" class="status my-2">Daten werden geladen …</div><div id="content"></div>
+</section></main><script>
+let red=[], con=[], tab='redemittel', query='', lesson='ALL';
+const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const norm=s=>String(s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ß/g,'ss');
+async function get(file){const r=await fetch(file+'?v=20260712-1',{cache:'no-store'});if(!r.ok)throw new Error(file+' HTTP '+r.status);return r.json()}
+function lessonOptions(){const set=new Set([...red,...con].map(x=>x.title));document.querySelector('#lessonFilter').innerHTML='<option value="ALL">Alle Lektionen</option>'+[...set].map(x=>`<option value="${esc(x)}">${esc(x)}</option>`).join('')}
+function itemMatches(item){return !query||norm(JSON.stringify(item)).includes(query)}
+function renderRed(){let total=0;const html=red.filter(l=>lesson==='ALL'||l.title===lesson).map(l=>{let sections=l.sections.map(s=>{let items=s.items.filter(itemMatches);total+=items.length;if(!items.length)return '';return `<div><div class="section-title">${esc(s.number)}. ${esc(s.title)}</div>${items.map(i=>`<article class="red-card"><div class="redemittel">${esc(i.phrase)}</div>${(i.examples||[]).map(e=>`<div class="example"><div class="example-label">${esc(e.label||'Beispiel')}</div><div>${esc(e.text)}</div></div>`).join('')}</article>`).join('')}</div>`}).join('');let specials=(l.special_blocks||[]).filter(itemMatches).map(b=>`<div class="special"><h4>${esc(b.title)}</h4>${b.lines.map(x=>`<div class="special-line">${esc(x)}</div>`).join('')}</div>`).join('');if(!sections&&!specials)return '';return `<section class="lesson"><div class="lesson-title">${esc(l.title)}</div>${sections}${specials}</section>`}).join('');document.querySelector('#content').innerHTML=html||'<div class="text-center text-secondary py-5">Keine passenden Einträge gefunden.</div>';document.querySelector('#status').textContent=`${total} Redemittel angezeigt`}
+function renderCon(){let total=0;const html=con.filter(l=>lesson==='ALL'||l.title===lesson).map(l=>{let items=l.items.filter(itemMatches);total+=items.length;if(!items.length)return '';return `<section class="lesson"><div class="lesson-title">${esc(l.title)}</div><div class="connection-grid">${items.map(i=>`<article class="connection-card"><div class="connection-de">${esc(i.german)}</div><div class="connection-en">${esc(i.english)}</div></article>`).join('')}</div></section>`}).join('');document.querySelector('#content').innerHTML=html||'<div class="text-center text-secondary py-5">Keine passenden Einträge gefunden.</div>';document.querySelector('#status').textContent=`${total} Verbindungen angezeigt`}
+function render(){tab==='redemittel'?renderRed():renderCon()}
+document.querySelectorAll('[data-tab]').forEach(b=>b.onclick=()=>{tab=b.dataset.tab;document.querySelectorAll('[data-tab]').forEach(x=>x.classList.toggle('active',x===b));render()});
+document.querySelector('#search').oninput=e=>{query=norm(e.target.value);render()};document.querySelector('#lessonFilter').onchange=e=>{lesson=e.target.value;render()};
+document.querySelector('#themeBtn').onclick=()=>{let d=document.documentElement,n=d.getAttribute('data-bs-theme')==='dark'?'light':'dark';d.setAttribute('data-bs-theme',n);localStorage.setItem('theme',n)};document.documentElement.setAttribute('data-bs-theme',localStorage.getItem('theme')||'light');
+Promise.all([get('redemittel.json'),get('verbindungen_besprechungen.json')]).then(([r,c])=>{red=r;con=c;lessonOptions();render()}).catch(e=>{document.querySelector('#status').innerHTML='<span class="text-danger">Laden fehlgeschlagen: '+esc(e.message)+'</span>'});
+</script></body></html>

@@ -1,0 +1,616 @@
+[
+  {
+    "title": "Lektion 1 Julia Santos begrüßt einen Gast",
+    "items": [
+      {
+        "german": "einen Gast freundlich begrüßen",
+        "english": "to greet a guest warmly"
+      },
+      {
+        "german": "bei jemandem einen guten Eindruck machen",
+        "english": "to make a good impression on someone"
+      },
+      {
+        "german": "in einer Abteilung tätig sein",
+        "english": "to work in a department"
+      },
+      {
+        "german": "für eine Aufgabe zuständig sein",
+        "english": "to be responsible for a task"
+      },
+      {
+        "german": "mit einer Abteilung zusammenarbeiten",
+        "english": "to cooperate with a department"
+      },
+      {
+        "german": "eine kaufmännische Ausbildung abschließen",
+        "english": "to complete commercial vocational training"
+      },
+      {
+        "german": "Theorie und Praxis verbinden",
+        "english": "to combine theory and practice"
+      },
+      {
+        "german": "eine duale Ausbildung machen",
+        "english": "to complete a dual vocational training programme"
+      }
+    ]
+  },
+  {
+    "title": "Lektion 2 Sorin Mateis’ erster Arbeitstag",
+    "items": [
+      {
+        "german": "eine neue Stelle antreten",
+        "english": "to start a new position"
+      },
+      {
+        "german": "bei jemandem einen guten Eindruck machen",
+        "english": "to make a good impression on someone"
+      },
+      {
+        "german": "sich an die Arbeitsabläufe anpassen",
+        "english": "to adapt to the work processes"
+      },
+      {
+        "german": "sich an die Regeln halten",
+        "english": "to comply with the rules"
+      },
+      {
+        "german": "jemandem einen Ratschlag geben",
+        "english": "to give someone advice"
+      },
+      {
+        "german": "mit Kollegen respektvoll umgehen",
+        "english": "to treat colleagues respectfully"
+      },
+      {
+        "german": "bei der Personalabteilung nachfragen",
+        "english": "to inquire with HR"
+      },
+      {
+        "german": "Anweisungen befolgen",
+        "english": "to follow instructions"
+      }
+    ]
+  },
+  {
+    "title": "Lektion 3 Maria Carreras bewirbt sich um eine neue Stelle",
+    "items": [
+      {
+        "german": "sich um eine Stelle bewerben",
+        "english": "to apply for a job"
+      },
+      {
+        "german": "eine Anforderung erfüllen",
+        "english": "to meet a requirement"
+      },
+      {
+        "german": "über Berufserfahrung verfügen",
+        "english": "to have professional experience"
+      },
+      {
+        "german": "eine Sprache beherrschen",
+        "english": "to be proficient in a language"
+      },
+      {
+        "german": "für eine Tätigkeit geeignet sein",
+        "english": "to be suitable for a position"
+      },
+      {
+        "german": "mit Kunden umgehen",
+        "english": "to deal with customers"
+      },
+      {
+        "german": "eine Bewerbung an jemanden richten",
+        "english": "to address an application to someone"
+      }
+    ]
+  },
+  {
+    "title": "Lektion 4 Galina Schewchenko ist in einer Besprechung",
+    "items": [
+      {
+        "german": "eine Besprechung abhalten",
+        "english": "to hold a meeting"
+      },
+      {
+        "german": "an einer Besprechung teilnehmen",
+        "english": "to attend a meeting"
+      },
+      {
+        "german": "einen Beschluss fassen",
+        "english": "to make a decision"
+      },
+      {
+        "german": "einen Vorschlag machen",
+        "english": "to make a suggestion"
+      },
+      {
+        "german": "über einen Vorschlag abstimmen",
+        "english": "to vote on a proposal"
+      },
+      {
+        "german": "einen Tagesordnungspunkt besprechen",
+        "english": "to discuss an agenda item"
+      },
+      {
+        "german": "ein Protokoll verfassen",
+        "english": "to write meeting minutes"
+      },
+      {
+        "german": "Ergebnisse zusammenfassen",
+        "english": "to summarize results"
+      },
+      {
+        "german": "eine Datei auf dem Server speichern",
+        "english": "to save a file on the server"
+      },
+      {
+        "german": "auf ein Netzwerk zugreifen",
+        "english": "to access a network"
+      }
+    ]
+  },
+  {
+    "title": "Lektion 5 Sophie Martin sucht eine Vertretung",
+    "items": [
+      {
+        "german": "eine Vertretung suchen",
+        "english": "to look for someone to provide cover"
+      },
+      {
+        "german": "für einen Kollegen einspringen",
+        "english": "to stand in for a colleague"
+      },
+      {
+        "german": "eine Reservierung stornieren",
+        "english": "to cancel a reservation"
+      },
+      {
+        "german": "um einen Rückruf bitten",
+        "english": "to request a callback"
+      },
+      {
+        "german": "jemanden weiterverbinden",
+        "english": "to transfer someone’s call"
+      },
+      {
+        "german": "eine Beschwerde einreichen",
+        "english": "to submit a complaint"
+      },
+      {
+        "german": "eine Entschädigung verlangen",
+        "english": "to demand compensation"
+      },
+      {
+        "german": "eine Beschwerde ernst nehmen",
+        "english": "to take a complaint seriously"
+      },
+      {
+        "german": "Beschwerden auswerten",
+        "english": "to analyse complaints"
+      }
+    ]
+  },
+  {
+    "title": "Lektion 6 Daria Golde hat einen technischen Beruf",
+    "items": [
+      {
+        "german": "ein Gerät ein- oder ausschalten",
+        "english": "to switch a device on or off"
+      },
+      {
+        "german": "einen Akku einsetzen oder herausnehmen",
+        "english": "to insert or remove a battery"
+      },
+      {
+        "german": "ein Gerät an den Computer anschließen",
+        "english": "to connect a device to the computer"
+      },
+      {
+        "german": "um technischen Rat bitten",
+        "english": "to ask for technical advice"
+      },
+      {
+        "german": "über Computerkenntnisse verfügen",
+        "english": "to have computer skills"
+      },
+      {
+        "german": "Kenntnisse erwerben und nachweisen",
+        "english": "to acquire and demonstrate knowledge"
+      },
+      {
+        "german": "ein Dokument formatieren",
+        "english": "to format a document"
+      },
+      {
+        "german": "Daten tabellarisch zusammenstellen",
+        "english": "to compile data in tabular form"
+      }
+    ]
+  },
+  {
+    "title": "Lektion 7 Menschen in unserer Stadt: Mehmet Cetin",
+    "items": [
+      {
+        "german": "einen Beruf lernen",
+        "english": "to train for a profession"
+      },
+      {
+        "german": "eine Lehre machen",
+        "english": "to complete an apprenticeship"
+      },
+      {
+        "german": "eine Führungsposition übernehmen",
+        "english": "to take on a management position"
+      },
+      {
+        "german": "über gute Berufsaussichten verfügen",
+        "english": "to have good career prospects"
+      },
+      {
+        "german": "hohe Qualitätsmaßstäbe setzen",
+        "english": "to set high quality standards"
+      },
+      {
+        "german": "Vertrauen schaffen oder stärken",
+        "english": "to create or strengthen trust"
+      },
+      {
+        "german": "einen Kostenvoranschlag erstellen",
+        "english": "to prepare a cost estimate"
+      },
+      {
+        "german": "einen Rabatt gewähren",
+        "english": "to grant a discount"
+      },
+      {
+        "german": "aus einem bestimmten Material bestehen",
+        "english": "to consist of a particular material"
+      },
+      {
+        "german": "einem Kunden etwas ans Herz legen",
+        "english": "to strongly recommend something to a customer"
+      }
+    ]
+  },
+  {
+    "title": "Lektion 8 Marwan Abbas hat eine Vertretungsstelle",
+    "items": [
+      {
+        "german": "Elternzeit nehmen",
+        "english": "to take parental leave"
+      },
+      {
+        "german": "eine Vertretungsstelle antreten",
+        "english": "to take up a temporary replacement position"
+      },
+      {
+        "german": "einen Beruf ausüben",
+        "english": "to practise a profession"
+      },
+      {
+        "german": "etwas dazuverdienen",
+        "english": "to earn extra money"
+      },
+      {
+        "german": "sich mit Kollegen beraten",
+        "english": "to consult colleagues"
+      },
+      {
+        "german": "einen Experten hinzuziehen",
+        "english": "to consult an expert"
+      },
+      {
+        "german": "ein Problem ansprechen",
+        "english": "to raise a problem"
+      },
+      {
+        "german": "sich mit jemandem absprechen",
+        "english": "to coordinate with someone"
+      },
+      {
+        "german": "einen Termin verschieben oder absagen",
+        "english": "to postpone or cancel an appointment"
+      },
+      {
+        "german": "sich für einen Fortbildungskurs anmelden",
+        "english": "to register for a professional-development course"
+      }
+    ]
+  },
+  {
+    "title": "Lektion 9 Das Service-Team von PC-Expert",
+    "items": [
+      {
+        "german": "einen Kunden umfassend beraten",
+        "english": "to give a customer comprehensive advice"
+      },
+      {
+        "german": "ein Virus entfernen",
+        "english": "to remove a virus"
+      },
+      {
+        "german": "sich für ein Modell entscheiden",
+        "english": "to decide on a model"
+      },
+      {
+        "german": "eine Ware im Sortiment führen",
+        "english": "to stock a product"
+      },
+      {
+        "german": "einen Schlauch festschrauben",
+        "english": "to tighten a hose"
+      },
+      {
+        "german": "ein Angebot einholen",
+        "english": "to request a quotation"
+      },
+      {
+        "german": "jemandem ein Angebot unterbreiten",
+        "english": "to submit an offer to someone"
+      },
+      {
+        "german": "eine Lieferung reklamieren",
+        "english": "to complain about a delivery"
+      },
+      {
+        "german": "eine Reklamation erfassen und weitergeben",
+        "english": "to record and forward a complaint"
+      }
+    ]
+  },
+  {
+    "title": "Lektion 10 Jannis Passadakis wartet Flugzeuge",
+    "items": [
+      {
+        "german": "ein Flugzeug instand halten",
+        "english": "to maintain an aircraft"
+      },
+      {
+        "german": "die Sicherheit gewährleisten",
+        "english": "to ensure safety"
+      },
+      {
+        "german": "Sicherheitsvorschriften einhalten",
+        "english": "to comply with safety regulations"
+      },
+      {
+        "german": "Unfallzahlen verringern",
+        "english": "to reduce accident figures"
+      },
+      {
+        "german": "eine Entwicklung auf Maßnahmen zurückführen",
+        "english": "to attribute a development to measures"
+      },
+      {
+        "german": "einen Unfall melden",
+        "english": "to report an accident"
+      },
+      {
+        "german": "eine Unfallstelle absichern",
+        "english": "to secure an accident site"
+      },
+      {
+        "german": "Schutzkleidung tragen",
+        "english": "to wear protective clothing"
+      },
+      {
+        "german": "sich an Qualitätsnormen orientieren",
+        "english": "to follow quality standards"
+      },
+      {
+        "german": "sich um Kundenzufriedenheit bemühen",
+        "english": "to strive for customer satisfaction"
+      }
+    ]
+  },
+  {
+    "title": "Lektion 11 Simion Ivanov bestellt Holz",
+    "items": [
+      {
+        "german": "einen Auftrag erteilen und bestätigen",
+        "english": "to place and confirm an order"
+      },
+      {
+        "german": "über Zahlungs- und Lieferbedingungen verhandeln",
+        "english": "to negotiate payment and delivery terms"
+      },
+      {
+        "german": "Kosten tragen oder übernehmen",
+        "english": "to bear or cover costs"
+      },
+      {
+        "german": "Ware versandfertig machen und verladen",
+        "english": "to prepare and load goods for shipment"
+      },
+      {
+        "german": "eine Spedition mit dem Transport beauftragen",
+        "english": "to commission a freight company"
+      },
+      {
+        "german": "eine Lieferung vorziehen oder vorverlegen",
+        "english": "to bring a delivery forward"
+      },
+      {
+        "german": "etwas auf Lager haben",
+        "english": "to have something in stock"
+      },
+      {
+        "german": "Termine und Arbeitsabläufe abstimmen",
+        "english": "to coordinate dates and workflows"
+      },
+      {
+        "german": "einen Raum und Catering buchen",
+        "english": "to book a room and catering"
+      },
+      {
+        "german": "eine Veranstaltung im Vorfeld planen",
+        "english": "to plan an event in advance"
+      }
+    ]
+  },
+  {
+    "title": "Lektion 12 Diêm Nguyen hat sich selbstständig gemacht",
+    "items": [
+      {
+        "german": "sich selbstständig machen",
+        "english": "to become self-employed"
+      },
+      {
+        "german": "einen Kundenstamm aufbauen",
+        "english": "to build a customer base"
+      },
+      {
+        "german": "Geld für Steuern zurücklegen",
+        "english": "to set money aside for taxes"
+      },
+      {
+        "german": "ein Geschäftskonto eröffnen",
+        "english": "to open a business account"
+      },
+      {
+        "german": "einen Dauerauftrag einrichten",
+        "english": "to set up a standing order"
+      },
+      {
+        "german": "einen Geschäftskredit beantragen",
+        "english": "to apply for a business loan"
+      },
+      {
+        "german": "einen Kredit in monatlichen Raten zurückzahlen",
+        "english": "to repay a loan in monthly instalments"
+      },
+      {
+        "german": "eine Zahlungserinnerung schicken",
+        "english": "to send a payment reminder"
+      },
+      {
+        "german": "gerichtliche Schritte einleiten",
+        "english": "to initiate legal proceedings"
+      },
+      {
+        "german": "die Gehaltslücke verringern",
+        "english": "to reduce the pay gap"
+      }
+    ]
+  },
+  {
+    "title": "Lektion 13 Luca Varani platzt der Kragen",
+    "items": [
+      {
+        "german": "einen Konflikt ansprechen",
+        "english": "to address a conflict"
+      },
+      {
+        "german": "ein Missverständnis klären",
+        "english": "to clear up a misunderstanding"
+      },
+      {
+        "german": "sich auf eine Lösung einigen",
+        "english": "to agree on a solution"
+      },
+      {
+        "german": "jemanden unter vier Augen sprechen",
+        "english": "to speak to someone privately"
+      },
+      {
+        "german": "ruhig und überlegt reagieren",
+        "english": "to react calmly and thoughtfully"
+      },
+      {
+        "german": "eine Konfliktstrategie anwenden",
+        "english": "to apply a conflict-management strategy"
+      },
+      {
+        "german": "ein klärendes Gespräch führen",
+        "english": "to have a clarifying discussion"
+      },
+      {
+        "german": "jemandem rechtzeitig Bescheid geben",
+        "english": "to inform someone in good time"
+      }
+    ]
+  },
+  {
+    "title": "Lektion 14 Dana Scott kandidiert für den Betriebsrat",
+    "items": [
+      {
+        "german": "für den Betriebsrat kandidieren",
+        "english": "to stand for election to the works council"
+      },
+      {
+        "german": "sich für Arbeitnehmer einsetzen",
+        "english": "to stand up for employees"
+      },
+      {
+        "german": "Anspruch auf Urlaub haben",
+        "english": "to be entitled to vacation"
+      },
+      {
+        "german": "Überstunden durch Freizeitausgleich abbauen",
+        "english": "to compensate for overtime with time off"
+      },
+      {
+        "german": "eine Bekanntmachung am Schwarzen Brett veröffentlichen",
+        "english": "to publish a notice on the notice board"
+      },
+      {
+        "german": "Unfallschutzmaßnahmen durchführen",
+        "english": "to carry out accident-prevention measures"
+      },
+      {
+        "german": "sich bei der Personalabteilung zurückmelden",
+        "english": "to report back to HR"
+      },
+      {
+        "german": "vor dem Arbeitsgericht klagen",
+        "english": "to bring a case before the labour court"
+      },
+      {
+        "german": "krankgeschrieben sein",
+        "english": "to be officially on sick leave"
+      },
+      {
+        "german": "",
+        "english": "======      Lektion 15 Marek Prazak möchte sich beruﬂich verändern\t=======sich beruflich verändern = to make a career change"
+      },
+      {
+        "german": "eine Chance ergreifen",
+        "english": "to seize an opportunity"
+      },
+      {
+        "german": "über einen Berufswechsel nachdenken",
+        "english": "to consider changing careers"
+      },
+      {
+        "german": "eine Zusatzqualifikation erwerben",
+        "english": "to obtain an additional qualification"
+      },
+      {
+        "german": "eine Umschulung finanzieren",
+        "english": "to finance a retraining programme"
+      },
+      {
+        "german": "sich nach Weiterbildungsangeboten umhören",
+        "english": "to ask around about further-training opportunities"
+      },
+      {
+        "german": "eine große Belastung in Kauf nehmen",
+        "english": "to accept a major burden"
+      },
+      {
+        "german": "den Lernstoff im Griff haben",
+        "english": "to have the course material under control"
+      },
+      {
+        "german": "beruflich weiterkommen",
+        "english": "to advance professionally"
+      },
+      {
+        "german": "einen beruflichen Neustart wagen",
+        "english": "to attempt a fresh professional start"
+      }
+    ]
+  }
+]

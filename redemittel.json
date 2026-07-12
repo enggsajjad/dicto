@@ -1,0 +1,5414 @@
+[
+  {
+    "title": "Lektion 1 Julia Santos begrüßt einen Gast",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Jemanden begrüßen und sich vorstellen",
+        "items": [
+          {
+            "phrase": "Guten Tag, herzlich willkommen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Guten Tag, herzlich willkommen in unserer Firma. Schön, dass Sie heute bei uns sind."
+              }
+            ]
+          },
+          {
+            "phrase": "Schön, Sie bei uns begrüßen zu dürfen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Frau Weber, schön, Sie bei uns begrüßen zu dürfen. Ich hoffe, Sie hatten eine angenehme Anreise."
+              }
+            ]
+          },
+          {
+            "phrase": "Guten Tag, mein Name ist …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Guten Tag, mein Name ist Sajjad Unar. Ich arbeite in der Produktionsabteilung."
+              }
+            ]
+          },
+          {
+            "phrase": "Wie geht es Ihnen?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Guten Morgen, Frau Krüger. Wie geht es Ihnen heute?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Gesprächspartner informieren",
+        "items": [
+          {
+            "phrase": "Ich sage Herrn Meier Bescheid, dass Sie da sind.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Bitte nehmen Sie kurz Platz. Ich sage Herrn Meier Bescheid, dass Sie da sind."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich informiere Herrn Meier, dass Sie eingetroffen sind.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Vielen Dank. Ich informiere Herrn Meier sofort, dass Sie eingetroffen sind."
+              },
+              {
+                "label": "Beispiel",
+                "text": "Herr Meier ist noch in einer Besprechung. Er wird in 15 Minuten bei Ihnen sein."
+              },
+              {
+                "label": "Beispiel",
+                "text": "Herr Meier ist noch in einer Besprechung. Er wird in etwa 15 Minuten bei Ihnen sein. Möchten Sie so lange einen Kaffee?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Über die Anreise sprechen",
+        "items": [
+          {
+            "phrase": "Wie war die Reise, Frau Kramer?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Herzlich willkommen, Frau Kramer. Wie war die Reise?"
+              }
+            ],
+            "_next_label": "Antwort"
+          },
+          {
+            "phrase": "Die Reise war sehr angenehm, vielen Dank.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Hatten Sie einen guten Flug / eine gute Fahrt?"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Hatten Sie einen guten Flug von Berlin nach Stuttgart?",
+            "examples": [
+              {
+                "label": "Antwort",
+                "text": "Ja, der Flug war ruhig und pünktlich."
+              }
+            ]
+          },
+          {
+            "phrase": "Sind Sie mit der Bahn gekommen?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Sind Sie mit der Bahn nach Karlsruhe gekommen?"
+              }
+            ],
+            "_next_label": "Antwort"
+          },
+          {
+            "phrase": "Ja, ich bin mit dem ICE gekommen.",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Etwas zu trinken anbieten",
+        "items": [
+          {
+            "phrase": "Was darf ich Ihnen anbieten?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Was darf ich Ihnen anbieten? Wir haben Kaffee, Tee und Mineralwasser."
+              }
+            ],
+            "_next_label": "Antwort"
+          },
+          {
+            "phrase": "Ein Glas Wasser wäre sehr nett.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Darf ich Ihnen einen Kaffee anbieten?"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Die Besprechung beginnt in zehn Minuten. Darf ich Ihnen vorher einen Kaffee anbieten?",
+            "examples": [
+              {
+                "label": "Antwort",
+                "text": "Ja, gern. Vielen Dank."
+              }
+            ]
+          },
+          {
+            "phrase": "Möchten Sie Kaffee oder Tee?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Möchten Sie Kaffee oder Tee?"
+              }
+            ],
+            "_next_label": "Antwort"
+          },
+          {
+            "phrase": "Ich hätte gern einen Tee, bitte.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Kann ich Ihnen Wasser oder Saft anbieten?"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Kann ich Ihnen Wasser oder Saft anbieten?",
+            "examples": [
+              {
+                "label": "Antwort",
+                "text": "Ein Glas Orangensaft, bitte."
+              }
+            ]
+          },
+          {
+            "phrase": "Darf ich Ihnen schon einmal etwas zu trinken anbieten?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Herr Schneider kommt gleich. Darf ich Ihnen schon einmal etwas zu trinken anbieten?"
+              }
+            ],
+            "_next_label": "Antwort"
+          },
+          {
+            "phrase": "Ja, bitte. Ich nehme ein Mineralwasser.",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "number": "5",
+        "title": "Sich verabschieden",
+        "items": [
+          {
+            "phrase": "Auf Wiedersehen und einen schönen Tag noch.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Vielen Dank für das Gespräch. Auf Wiedersehen und einen schönen Tag noch."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich wünsche Ihnen eine gute Heimreise.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Es war schön, Sie kennenzulernen. Ich wünsche Ihnen eine gute Heimreise."
+              }
+            ]
+          },
+          {
+            "phrase": "Vielen Dank für Ihren Besuch.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Vielen Dank für Ihren Besuch. Wir freuen uns auf die weitere Zusammenarbeit."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "6",
+        "title": "Seinen Beruf vorstellen",
+        "items": [
+          {
+            "phrase": "Ich bin … von Beruf.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich bin Elektroingenieur von Beruf."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich möchte … werden.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich möchte später Projektmanager werden."
+              }
+            ]
+          },
+          {
+            "phrase": "In diesem Beruf braucht man vor allem …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "In diesem Beruf braucht man vor allem technisches Verständnis, Geduld und Teamfähigkeit."
+              }
+            ]
+          },
+          {
+            "phrase": "Man muss besonders gut … können.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Als Kundenberater muss man besonders gut zuhören und kommunizieren können."
+              }
+            ]
+          },
+          {
+            "phrase": "Die Ausbildung habe ich in einem Betrieb und an der Berufsschule gemacht.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Ausbildung zum Mechatroniker habe ich in einem Betrieb und an der Berufsschule gemacht."
+              }
+            ]
+          },
+          {
+            "phrase": "Das Studium hat … gedauert.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das Studium hat vier Jahre gedauert."
+              }
+            ]
+          },
+          {
+            "phrase": "Heute arbeite ich als … / bei …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Heute arbeite ich als Produktionsmitarbeiter bei einem Automobilzulieferer."
+              }
+            ]
+          },
+          {
+            "phrase": "Mein Unternehmen ist … / produziert …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Mein Unternehmen ist ein mittelständischer Betrieb und produziert elektronische Bauteile."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich bin zuständig für …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich bin zuständig für die Kontrolle der Maschinen und die Qualität der Produkte."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich bin verantwortlich für …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich bin verantwortlich für die Dokumentation der Produktionsdaten."
+              }
+            ]
+          },
+          {
+            "phrase": "An meinem Beruf gefällt mir, dass man …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "An meinem Beruf gefällt mir, dass man im Team arbeitet und jeden Tag etwas Neues lernt."
+              }
+            ]
+          },
+          {
+            "phrase": "In ein paar Jahren kann ich vielleicht …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "In ein paar Jahren kann ich vielleicht die Leitung eines kleinen Teams übernehmen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "7",
+        "title": "Seinen Berufswunsch beschreiben",
+        "items": [
+          {
+            "phrase": "Die Ausbildung zum / zur … absolviert man an …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Ausbildung zum Pflegefachmann absolviert man an einer Pflegeschule und in verschiedenen Pflegeeinrichtungen."
+              }
+            ]
+          },
+          {
+            "phrase": "Das Studium dauert … Jahre.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das Studium der Informatik dauert normalerweise drei bis vier Jahre."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich würde gern bei / in einem … arbeiten.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich würde gern bei einem internationalen Technologieunternehmen arbeiten."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich würde gern als … arbeiten.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich würde gern als Softwareentwickler arbeiten."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich würde gern in einem … arbeiten.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich würde gern in einem modernen Forschungsinstitut arbeiten."
+              }
+            ]
+          },
+          {
+            "phrase": "… arbeiten oft als … und sind für … zuständig.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Informatiker arbeiten oft als Softwareentwickler und sind für die Entwicklung und Wartung von Programmen zuständig."
+              }
+            ]
+          },
+          {
+            "phrase": "… sind für … verantwortlich.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Projektmanager sind für die Planung, Organisation und Durchführung von Projekten verantwortlich."
+              }
+            ]
+          },
+          {
+            "phrase": "Der Beruf würde mir bestimmt Spaß machen, weil …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Der Beruf würde mir bestimmt Spaß machen, weil ich gern Probleme löse und mit anderen Menschen zusammenarbeite."
+              }
+            ]
+          },
+          {
+            "phrase": "Der Beruf würde mir bestimmt Spaß machen, auch wenn …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Der Beruf würde mir bestimmt Spaß machen, auch wenn die Arbeit manchmal stressig ist."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "special_blocks": []
+  },
+  {
+    "title": "Lektion 2 Sorin Mateis’ erster Arbeitstag",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Zustimmen / Verstehen signalisieren",
+        "items": [
+          {
+            "phrase": "Alles klar.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Bitte schicken Sie mir die Unterlagen bis morgen. – Alles klar, das mache ich."
+              }
+            ]
+          },
+          {
+            "phrase": "Ah, sehr gut.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Besprechung wurde auf 14 Uhr verschoben. – Ah, sehr gut. Dann habe ich vorher noch Zeit."
+              }
+            ]
+          },
+          {
+            "phrase": "In Ordnung.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Können Sie heute etwas länger bleiben? – Ja, in Ordnung."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Bedauern",
+        "items": [
+          {
+            "phrase": "Das tut mir leid.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das tut mir leid. Ich habe Ihre E-Mail leider zu spät gelesen."
+              }
+            ]
+          },
+          {
+            "phrase": "Den … habe ich nicht …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Den Termin habe ich nicht in meinen Kalender eingetragen."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Den Namen des Kunden habe ich nicht verstanden.",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Den Bericht habe ich noch nicht fertiggestellt."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Nachfragen",
+        "items": [
+          {
+            "phrase": "Eine Frage, bitte: …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Eine Frage, bitte: Wann beginnt die nächste Besprechung?"
+              }
+            ]
+          },
+          {
+            "phrase": "Darf ich kurz nachfragen: …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Darf ich kurz nachfragen: Soll ich die Unterlagen per E-Mail schicken?"
+              }
+            ]
+          },
+          {
+            "phrase": "Ich habe noch eine Frage: …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich habe noch eine Frage: Wer ist für dieses Projekt verantwortlich?"
+              }
+            ]
+          },
+          {
+            "phrase": "Habe ich das / Sie richtig verstanden?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Habe ich das richtig verstanden? Wir müssen den Auftrag bis Freitag erledigen?"
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Habe ich Sie richtig verstanden? Die Schulung beginnt schon um acht Uhr?",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Kurzer Dialog mit allen Redemitteln",
+        "lines": [
+          "Vorgesetzte: Bitte bereiten Sie die Präsentation bis Donnerstag vor.",
+          "Mitarbeiter: Alles klar.",
+          "Vorgesetzte: Die Besprechung findet jetzt um 10 Uhr statt.",
+          "Mitarbeiter: Ah, sehr gut.",
+          "Mitarbeiter: Darf ich kurz nachfragen: Soll ich auch die neuen Verkaufszahlen einfügen?",
+          "Vorgesetzte: Ja, bitte.",
+          "Mitarbeiter: Habe ich Sie richtig verstanden? Ich soll die Präsentation und die Verkaufszahlen bis Donnerstag fertigstellen?",
+          "Vorgesetzte: Genau.",
+          "Mitarbeiter: In Ordnung. Den Bericht habe ich allerdings noch nicht vollständig gelesen.",
+          "Vorgesetzte: Kein Problem.",
+          "Mitarbeiter: Das tut mir leid. Ich erledige das heute noch."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lektion 3 Maria Carreras bewirbt sich um eine neue Stelle",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Nachfragen",
+        "items": [
+          {
+            "phrase": "Das verstehe ich nicht.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das verstehe ich nicht. Können Sie das bitte noch einmal erklären?"
+              }
+            ]
+          },
+          {
+            "phrase": "Wie meinen Sie das?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wie meinen Sie das? Soll ich die Aufgabe heute oder erst morgen erledigen?"
+              }
+            ]
+          },
+          {
+            "phrase": "Was meinen Sie mit …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Was meinen Sie mit „flexiblen Arbeitszeiten“?"
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Was meinen Sie mit dieser Bemerkung?",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Über Berufserfahrung sprechen",
+        "items": [
+          {
+            "phrase": "Ich habe … Jahre in / als … gearbeitet.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich habe fünf Jahre in einer Produktionsfirma gearbeitet."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Ich habe drei Jahre als Maschinenbediener gearbeitet.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich habe / musste …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Ich habe täglich Maschinen kontrolliert und Produktionsdaten dokumentiert.",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Ich musste oft im Schichtdienst arbeiten."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich habe … gelernt.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich habe gelernt, selbstständig und sorgfältig zu arbeiten."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "In meiner letzten Stelle habe ich gelernt, technische Probleme schnell zu lösen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich habe Erfahrungen im …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Ich habe Erfahrungen im Kundenservice.",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Ich habe Erfahrungen im Bereich Produktion und Qualitätskontrolle."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Über Vorlieben und Fähigkeiten sprechen",
+        "items": [
+          {
+            "phrase": "Besonders gut kann ich …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Besonders gut kann ich technische Probleme analysieren und lösen."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Besonders gut kann ich im Team arbeiten.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich würde gern / am liebsten …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Ich würde gern in einem internationalen Unternehmen arbeiten.",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Am liebsten würde ich im Bereich Forschung und Entwicklung arbeiten."
+              }
+            ]
+          },
+          {
+            "phrase": "Mir würde es Spaß machen, … zu …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Mir würde es Spaß machen, neue Mitarbeiter einzuarbeiten."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Mir würde es Spaß machen, an interessanten Projekten zu arbeiten.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich mache / arbeite gern …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Ich mache gern organisatorische Aufgaben.",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Ich arbeite gern mit anderen Menschen zusammen."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich gehe gern mit … um.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich gehe gern mit Kunden um."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Ich gehe gern mit technischen Geräten und Maschinen um.",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Kurzer Beispieldialog",
+        "lines": [
+          "Personalchefin: Welche Berufserfahrung haben Sie?",
+          "Bewerber: Ich habe vier Jahre als Produktionsmitarbeiter gearbeitet. Dabei musste ich Maschinen bedienen und die Qualität der Produkte kontrollieren.",
+          "Personalchefin: Welche Aufgaben machen Ihnen besonders Spaß?",
+          "Bewerber: Mir würde es Spaß machen, neue Prozesse kennenzulernen und im Team an Verbesserungen zu arbeiten.",
+          "Personalchefin: Was können Sie besonders gut?",
+          "Bewerber: Besonders gut kann ich konzentriert und sorgfältig arbeiten.",
+          "Personalchefin: Wir erwarten eine hohe zeitliche Flexibilität.",
+          "Bewerber: Was meinen Sie mit „hoher zeitlicher Flexibilität“?",
+          "Personalchefin: Sie müssten manchmal auch am Wochenende arbeiten.",
+          "Bewerber: Verstehe. Am liebsten arbeite ich unter der Woche, aber gelegentliche Wochenendarbeit ist für mich möglich."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lektion 4 Galina Schewchenko ist in einer Besprechung",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Zustimmen",
+        "items": [
+          {
+            "phrase": "Ich finde, dass … recht hat.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich finde, dass Frau Keller recht hat. Wir sollten die Arbeitszeiten besser planen."
+              }
+            ]
+          },
+          {
+            "phrase": "Das habe ich genauso empfunden.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Besprechung war sehr unübersichtlich. – Das habe ich genauso empfunden."
+              }
+            ]
+          },
+          {
+            "phrase": "Ja, das hört sich gut an.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wir könnten die Aufgaben neu verteilen. – Ja, das hört sich gut an."
+              }
+            ]
+          },
+          {
+            "phrase": "Das sehe ich genauso.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Gute Kommunikation ist im Team sehr wichtig. – Das sehe ich genauso."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Widersprechen",
+        "items": [
+          {
+            "phrase": "Ich habe ganz andere Erfahrungen gemacht.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Viele sagen, dass Homeoffice unpraktisch ist. Ich habe ganz andere Erfahrungen gemacht."
+              }
+            ]
+          },
+          {
+            "phrase": "Da bin ich mir nicht so sicher.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Alle Aufgaben können bis morgen erledigt werden. – Da bin ich mir nicht so sicher."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich glaube, das stimmt so nicht ganz!",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich glaube, das stimmt so nicht ganz. Nicht alle Mitarbeitenden wurden informiert."
+              }
+            ]
+          },
+          {
+            "phrase": "Ja, aber …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ja, aber wir sollten auch die Kosten berücksichtigen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Die eigene Position darstellen",
+        "items": [
+          {
+            "phrase": "Ich meine, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich meine, dass wir mehr Zeit für die Einarbeitung brauchen."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich finde es schon wichtig, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich finde es schon wichtig, dass alle Mitarbeitenden regelmäßig Feedback bekommen."
+              }
+            ]
+          },
+          {
+            "phrase": "Manchmal denke ich, …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Manchmal denke ich, wir haben zu viele Besprechungen."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich bin der Ansicht, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich bin der Ansicht, dass flexible Arbeitszeiten die Motivation erhöhen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Nach der Meinung fragen",
+        "items": [
+          {
+            "phrase": "Was meinen Sie?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich würde gern die Aufgaben anders verteilen. Was meinen Sie?"
+              }
+            ]
+          },
+          {
+            "phrase": "Sind alle damit einverstanden, dass …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Sind alle damit einverstanden, dass wir die Besprechung auf Freitag verschieben?"
+              }
+            ]
+          },
+          {
+            "phrase": "Woran liegt das?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Produktivität ist in letzter Zeit gesunken. Woran liegt das?"
+              }
+            ]
+          },
+          {
+            "phrase": "Wie wäre es, wenn …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wie wäre es, wenn wir einmal pro Woche eine kurze Teamsitzung machen?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Kurzer Beispieldialog",
+        "lines": [
+          "Frau Weber: Ich finde es wichtig, dass wir die Aufgaben im Team klar verteilen.",
+          "Herr Klein: Das sehe ich genauso.",
+          "Frau Weber: Wie wäre es, wenn wir jeden Montag eine kurze Besprechung machen?",
+          "Herr Klein: Ja, das hört sich gut an.",
+          "Frau Sommer: Ich glaube aber, dass eine wöchentliche Besprechung zu viel Zeit kostet.",
+          "Herr Klein: Da bin ich mir nicht so sicher. Eine kurze Besprechung könnte viele Missverständnisse vermeiden.",
+          "Frau Weber: Ich bin der Ansicht, dass 15 Minuten ausreichen würden. Was meinen Sie?",
+          "Frau Sommer: Ja, aber wir sollten vorher eine klare Tagesordnung vorbereiten.",
+          "Frau Weber: Sind alle damit einverstanden, dass wir es einen Monat lang ausprobieren?",
+          "Alle: Ja."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lektion 5 Sophie Martin sucht eine Vertretung",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Absagen / Einwenden",
+        "items": [
+          {
+            "phrase": "Das geht leider nicht. Ich …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das geht leider nicht. Ich habe um diese Uhrzeit bereits einen anderen Termin."
+              }
+            ]
+          },
+          {
+            "phrase": "Das würde ich ein andermal gern tun, aber heute …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das würde ich ein andermal gern tun, aber heute muss ich noch einen dringenden Auftrag erledigen."
+              }
+            ]
+          },
+          {
+            "phrase": "Das tut mir leid. Ausgerechnet heute …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das tut mir leid. Ausgerechnet heute kann ich nicht länger im Büro bleiben."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Nachhaken",
+        "items": [
+          {
+            "phrase": "Könnten Sie nicht …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Könnten Sie nicht ausnahmsweise morgen etwas früher kommen?"
+              }
+            ]
+          },
+          {
+            "phrase": "Vielleicht wäre es möglich …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Vielleicht wäre es möglich, den Termin auf den Nachmittag zu verschieben."
+              }
+            ]
+          },
+          {
+            "phrase": "Das macht nichts. Sie können …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das macht nichts. Sie können die Unterlagen auch morgen abgeben."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Sich erkundigen / Weiterverbinden",
+        "items": [
+          {
+            "phrase": "Da muss ich mich selbst erst erkundigen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Da muss ich mich selbst erst erkundigen. Ich gebe Ihnen später Bescheid."
+              }
+            ]
+          },
+          {
+            "phrase": "Kann ich Sie … zurückrufen?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Kann ich Sie in etwa einer Stunde zurückrufen?"
+              }
+            ]
+          },
+          {
+            "phrase": "Einen kleinen Moment bitte, ich schaue mal nach …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Einen kleinen Moment bitte, ich schaue mal nach, ob Frau Keller heute im Büro ist."
+              }
+            ]
+          },
+          {
+            "phrase": "Da verbinde ich Sie am besten gleich mit …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Da verbinde ich Sie am besten gleich mit unserer Personalabteilung."
+              }
+            ]
+          },
+          {
+            "phrase": "Die Kollegen dort …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Kollegen dort können Ihnen genauere Informationen geben."
+              }
+            ]
+          },
+          {
+            "phrase": "Da kann Ihnen … besser Auskunft geben.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Da kann Ihnen Herr Wagner aus der Buchhaltung besser Auskunft geben."
+              }
+            ]
+          },
+          {
+            "phrase": "Darf ich Sie mit … verbinden?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Darf ich Sie mit unserer technischen Abteilung verbinden?"
+              }
+            ]
+          },
+          {
+            "phrase": "Das kann ich Ihnen im Moment nicht sagen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das kann ich Ihnen im Moment nicht sagen, weil mir die aktuellen Informationen noch fehlen."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich erkundige mich und melde mich dann wieder bei Ihnen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich erkundige mich bei meiner Vorgesetzten und melde mich dann wieder bei Ihnen."
+              }
+            ]
+          },
+          {
+            "phrase": "Da muss ich kurz nachfragen. Möchten Sie einen Augenblick warten oder soll ich Sie zurückrufen?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Da muss ich kurz bei der zuständigen Abteilung nachfragen. Möchten Sie einen Augenblick warten oder soll ich Sie später zurückrufen?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Einlenken",
+        "items": [
+          {
+            "phrase": "Vielleicht gibt es doch eine Möglichkeit. Ich …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Vielleicht gibt es doch eine Möglichkeit. Ich könnte den Termin auf den Abend verschieben."
+              }
+            ]
+          },
+          {
+            "phrase": "Na gut, dann …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Na gut, dann übernehme ich die Aufgabe heute noch."
+              }
+            ]
+          },
+          {
+            "phrase": "O. k., ich versuche es.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "O. k., ich versuche es. Ich kann aber nicht garantieren, dass alles heute fertig wird."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "5",
+        "title": "Erklären",
+        "items": [
+          {
+            "phrase": "Normalerweise ist es selbstverständlich möglich, … zu …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Normalerweise ist es selbstverständlich möglich, einen Termin kostenlos zu ändern."
+              }
+            ]
+          },
+          {
+            "phrase": "Leider nur wegen …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Leider ist das heute nur wegen eines technischen Problems nicht möglich."
+              }
+            ]
+          },
+          {
+            "phrase": "Natürlich darf es nicht zu einem Problem für unsere Gäste werden, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Natürlich darf es nicht zu einem Problem für unsere Gäste werden, dass unser Buchungssystem nicht funktioniert."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "6",
+        "title": "Sich entschuldigen",
+        "items": [
+          {
+            "phrase": "Bitte entschuldigen Sie, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Bitte entschuldigen Sie, dass Sie so lange warten mussten."
+              }
+            ]
+          },
+          {
+            "phrase": "Es tut uns sehr leid, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Es tut uns sehr leid, dass Ihre Bestellung verspätet geliefert wurde."
+              }
+            ]
+          },
+          {
+            "phrase": "Wir bedauern sehr, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wir bedauern sehr, dass es während Ihres Aufenthalts zu Problemen gekommen ist."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "7",
+        "title": "Ein Angebot machen",
+        "items": [
+          {
+            "phrase": "Wir möchten Ihnen folgendes Angebot machen / unterbreiten: …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wir möchten Ihnen folgendes Angebot unterbreiten: Sie erhalten einen Preisnachlass von 20 Prozent."
+              }
+            ]
+          },
+          {
+            "phrase": "Wir möchten Ihnen als Entschädigung … anbieten.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wir möchten Ihnen als Entschädigung einen kostenlosen Ersatztermin anbieten."
+              }
+            ]
+          },
+          {
+            "phrase": "Wir werden alles tun, damit …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wir werden alles tun, damit sich ein solches Problem nicht wiederholt."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Kurzer Beispieldialog",
+        "lines": [
+          "Kundin: Meine Bestellung ist noch immer nicht angekommen. Können Sie mir sagen, woran das liegt?",
+          "Mitarbeiter: Bitte entschuldigen Sie, dass Sie so lange warten mussten. Da muss ich mich selbst erst erkundigen. Möchten Sie einen Augenblick warten oder soll ich Sie zurückrufen?",
+          "Kundin: Bitte rufen Sie mich zurück.",
+          "Mitarbeiter: Natürlich. Kann ich Sie in einer Stunde zurückrufen?",
+          "Kundin: Ja, das wäre in Ordnung.",
+          "Mitarbeiter: Es tut uns sehr leid, dass sich Ihre Lieferung verspätet hat. Leider ist es wegen eines technischen Problems zu einer Verzögerung gekommen.",
+          "Kundin: Ich brauche die Ware aber spätestens morgen.",
+          "Mitarbeiter: Vielleicht gibt es doch eine Möglichkeit. Ich frage nach, ob wir eine Expresslieferung organisieren können.",
+          "Kundin: Das wäre sehr hilfreich.",
+          "Mitarbeiter: Wir werden alles tun, damit die Bestellung morgen bei Ihnen ankommt. Als Entschädigung möchten wir Ihnen außerdem einen Preisnachlass anbieten."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lektion 6 Daria Golde hat einen technischen Beruf",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Einleitungssatz",
+        "items": [
+          {
+            "phrase": "Vielen Dank für Ihre E-Mail vom …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Vielen Dank für Ihre E-Mail vom 10. Juli bezüglich Ihrer neuen Kaffeemaschine."
+              }
+            ]
+          },
+          {
+            "phrase": "Gern beantworten wir Ihre E-Mail vom …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Gern beantworten wir Ihre E-Mail vom 10. Juli und erklären Ihnen die Bedienung des Geräts."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Sich entschuldigen / eine Lösung anbieten",
+        "items": [
+          {
+            "phrase": "Bitte entschuldigen Sie, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Bitte entschuldigen Sie, dass die Bedienungsanleitung nicht im Paket enthalten war."
+              }
+            ]
+          },
+          {
+            "phrase": "Es tut uns leid, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Es tut uns leid, dass Sie Schwierigkeiten mit dem Gerät haben."
+              }
+            ]
+          },
+          {
+            "phrase": "Wir schicken Ihnen die Bedienungsanleitung sofort zu.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wir schicken Ihnen die fehlende Bedienungsanleitung sofort per E-Mail zu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Fragen beantworten",
+        "items": [
+          {
+            "phrase": "Um das Gerät einzuschalten, müssen Sie die …-Taste …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Um das Gerät einzuschalten, müssen Sie die Start-Taste drei Sekunden lang drücken."
+              }
+            ]
+          },
+          {
+            "phrase": "Die …-Taste benutzt man, um …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Menü-Taste benutzt man, um die verschiedenen Programme auszuwählen."
+              }
+            ]
+          },
+          {
+            "phrase": "Die …-Taste befindet sich / ist auf …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Ein-Aus-Taste befindet sich auf der rechten Seite des Geräts."
+              }
+            ]
+          },
+          {
+            "phrase": "Der …-Anschluss befindet sich / ist …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Der USB-Anschluss befindet sich auf der Rückseite des Druckers."
+              }
+            ]
+          },
+          {
+            "phrase": "Sie müssen … in … auf … stecken.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Sie müssen das Stromkabel in den Anschluss auf der Rückseite des Geräts stecken."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Schluss",
+        "items": [
+          {
+            "phrase": "Bei weiteren Fragen können Sie sich gern an uns wenden.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Bei weiteren Fragen können Sie sich jederzeit gern an unseren Kundenservice wenden."
+              }
+            ]
+          },
+          {
+            "phrase": "Wenn Sie weitere Fragen haben, können Sie sich gern an uns wenden.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wenn Sie weitere Fragen zur Bedienung haben, können Sie sich gern telefonisch oder per E-Mail an uns wenden."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "5",
+        "title": "Auf einen Gegenstand deuten",
+        "items": [
+          {
+            "phrase": "Dieser / Diese / Dieses … hier oben / dort unten / da vorn …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Diese Taste hier oben ist die Start-Taste."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Dieses Kabel dort unten gehört zum Netzteil.",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Dieser Schalter da vorn schaltet die Maschine ein."
+              }
+            ]
+          },
+          {
+            "phrase": "Der / Die / Das … da.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Der Knopf da ist für die Lautstärke."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Die Anzeige da zeigt die aktuelle Temperatur.",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Das Fach da ist für das Papier."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "6",
+        "title": "Um Hilfe / um einen Tipp bitten",
+        "items": [
+          {
+            "phrase": "Können Sie mir mal kurz helfen?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Können Sie mir mal kurz helfen? Ich kann den Drucker nicht einschalten."
+              }
+            ]
+          },
+          {
+            "phrase": "Was mache ich da am besten?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das Gerät zeigt eine Fehlermeldung. Was mache ich da am besten?"
+              }
+            ]
+          },
+          {
+            "phrase": "Und was kann man da machen?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Der Bildschirm reagiert nicht mehr. Und was kann man da machen?"
+              }
+            ]
+          },
+          {
+            "phrase": "Was ist besser?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Was ist besser: das Gerät neu starten oder den technischen Service anrufen?"
+              }
+            ]
+          },
+          {
+            "phrase": "Können Sie mir einen Tipp geben, …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Können Sie mir einen Tipp geben, wie ich die Maschine richtig reinigen kann?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Kurzer Beispieldialog",
+        "lines": [
+          "Mitarbeiterin: Können Sie mir mal kurz helfen? Der Drucker funktioniert nicht.",
+          "Kollege: Natürlich. Was genau ist das Problem?",
+          "Mitarbeiterin: Der Bildschirm zeigt eine Fehlermeldung. Was mache ich da am besten?",
+          "Kollege: Zuerst müssen Sie das Gerät ausschalten. Die Ein-Aus-Taste befindet sich auf der rechten Seite.",
+          "Mitarbeiterin: Meinen Sie die Taste da?",
+          "Kollege: Ja, genau. Diese Taste hier oben müssen Sie etwa drei Sekunden lang drücken.",
+          "Mitarbeiterin: Und was kann man machen, wenn die Fehlermeldung danach noch da ist?",
+          "Kollege: Dann ziehen Sie das Stromkabel heraus und stecken es nach einer Minute wieder in den Anschluss auf der Rückseite.",
+          "Mitarbeiterin: Vielen Dank. Das probiere ich aus."
+        ]
+      },
+      {
+        "title": "Beispiel für eine formelle Antwort per E-Mail",
+        "lines": [
+          "Betreff: Ihre Anfrage zur Bedienung des Druckers",
+          "Sehr geehrte Frau Keller,",
+          "vielen Dank für Ihre E-Mail vom 10. Juli.",
+          "Es tut uns leid, dass Sie Schwierigkeiten mit Ihrem Drucker haben. Um das Gerät einzuschalten, müssen Sie die Ein-Aus-Taste auf der rechten Seite drei Sekunden lang drücken. Der Stromanschluss befindet sich auf der Rückseite. Bitte stecken Sie das Stromkabel vollständig in den Anschluss.",
+          "Die Menü-Taste benutzt man, um die verschiedenen Druckprogramme auszuwählen. Wir schicken Ihnen die vollständige Bedienungsanleitung sofort per E-Mail zu.",
+          "Bei weiteren Fragen können Sie sich gern an uns wenden.",
+          "Mit freundlichen Grüßen",
+          "Ihr Kundenservice"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lektion 7 Menschen in unserer Stadt: Mehmet Cetin",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Thema nennen",
+        "items": [
+          {
+            "phrase": "Ich möchte kurz den Beruf des … vorstellen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich möchte kurz den Beruf des Mechatronikers vorstellen."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich präsentiere Ihnen den Beruf des …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich präsentiere Ihnen heute den Beruf des Fachinformatikers."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Aufbau beschreiben",
+        "items": [
+          {
+            "phrase": "Dazu sage ich zuerst etwas zu …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Dazu sage ich zuerst etwas zu den Aufgaben und Tätigkeiten in diesem Beruf."
+              }
+            ]
+          },
+          {
+            "phrase": "Danach stelle ich … dar.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Danach stelle ich die notwendigen Qualifikationen und Fähigkeiten dar."
+              }
+            ]
+          },
+          {
+            "phrase": "Dann komme ich zu …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Dann komme ich zu den Ausbildungs- und Weiterbildungsmöglichkeiten."
+              }
+            ]
+          },
+          {
+            "phrase": "Am Schluss spreche ich über …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Am Schluss spreche ich über die Verdienstmöglichkeiten und Berufschancen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Einen neuen Punkt beginnen",
+        "items": [
+          {
+            "phrase": "Und nun komme ich zu …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Und nun komme ich zu den wichtigsten Aufgaben eines Mechatronikers."
+              }
+            ]
+          },
+          {
+            "phrase": "Zuerst zu …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Zuerst zu den Voraussetzungen für die Ausbildung."
+              }
+            ]
+          },
+          {
+            "phrase": "Als Nächstes komme ich zu …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Als Nächstes komme ich zu den Arbeitszeiten in diesem Beruf."
+              }
+            ]
+          },
+          {
+            "phrase": "Jetzt möchte ich … darstellen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Jetzt möchte ich die Weiterbildungsmöglichkeiten darstellen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Beenden",
+        "items": [
+          {
+            "phrase": "Abschließend / Zusammenfassend kann man sagen, …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Zusammenfassend kann man sagen, dass dieser Beruf abwechslungsreich und zukunftssicher ist."
+              }
+            ]
+          },
+          {
+            "phrase": "Vielen Dank für Ihre Aufmerksamkeit / Ihr Interesse.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Vielen Dank für Ihre Aufmerksamkeit. Haben Sie noch Fragen?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "5",
+        "title": "Sich am Telefon melden",
+        "items": [
+          {
+            "phrase": "(Firma), (Familienname), guten Tag.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Firma Schneider, Müller, guten Tag."
+              }
+            ]
+          },
+          {
+            "phrase": "Was kann ich für Sie tun?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Firma Techno-Service, Weber, guten Tag. Was kann ich für Sie tun?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "6",
+        "title": "Telefonat beenden",
+        "items": [
+          {
+            "phrase": "Wie verbleiben wir?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wie verbleiben wir? Soll ich Ihnen das Angebot per E-Mail zuschicken?"
+              }
+            ]
+          },
+          {
+            "phrase": "Sie hören von mir, sobald …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Sie hören von mir, sobald ich eine Rückmeldung von der zuständigen Abteilung habe."
+              }
+            ]
+          },
+          {
+            "phrase": "Vielen Dank, dass … / Vielen Dank für …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Vielen Dank, dass Sie sich die Zeit genommen haben."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Vielen Dank für Ihren Anruf.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Nichts zu danken. / Gern geschehen."
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Vielen Dank für Ihre Hilfe. – Nichts zu danken.",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Vielen Dank für die Informationen. – Gern geschehen."
+              }
+            ]
+          },
+          {
+            "phrase": "Auf Wiederhören!",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Dann wünsche ich Ihnen noch einen schönen Tag. Auf Wiederhören!"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "7",
+        "title": "Waren beschreiben",
+        "items": [
+          {
+            "phrase": "Aus was wird … gemacht / hergestellt?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Aus was wird dieses Möbelstück hergestellt?"
+              }
+            ],
+            "_next_label": "Antwort"
+          },
+          {
+            "phrase": "Es wird aus Holz und Metall hergestellt.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "In … ist / sind …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "In dieser Creme sind natürliche Öle und Vitamine.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "… besteht aus / enthält …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Das Gerät besteht aus Kunststoff, Metall und Glas.",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Das Produkt enthält keine künstlichen Zusatzstoffe."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "8",
+        "title": "Etwas empfehlen",
+        "items": [
+          {
+            "phrase": "Was können Sie mir als / für … empfehlen?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Was können Sie mir als Geschenk für einen Kollegen empfehlen?"
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Was können Sie mir für empfindliche Haut empfehlen?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Und was passt am besten zu …?"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Und was passt am besten zu einem dunklen Anzug?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Nehmen Sie für … doch …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Nehmen Sie für Ihre Präsentation doch diesen kabellosen Beamer.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "… wird häufig gewählt / genommen."
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Dieses Modell wird häufig von kleinen Unternehmen gewählt.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich würde Ihnen zu … raten."
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Ich würde Ihnen zu einem energiesparenden Gerät raten.",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Kurzer Beispieldialog am Telefon",
+        "lines": [
+          "Mitarbeiterin: Firma Müller, Schneider, guten Tag. Was kann ich für Sie tun?",
+          "Kunde: Guten Tag. Ich suche einen Drucker für ein kleines Büro. Was können Sie mir empfehlen?",
+          "Mitarbeiterin: Ich würde Ihnen zu unserem Modell OfficePrint 300 raten. Es wird häufig von kleinen Unternehmen gewählt.",
+          "Kunde: Aus was wird das Gerät hergestellt?",
+          "Mitarbeiterin: Das Gehäuse besteht hauptsächlich aus Kunststoff und Metall. Im Lieferumfang sind außerdem ein Stromkabel und eine Starterpatrone enthalten.",
+          "Kunde: Und welches Modell passt am besten zu einem Büro mit fünf Mitarbeitenden?",
+          "Mitarbeiterin: Nehmen Sie dafür doch das Modell OfficePrint 500. Es kann größere Mengen schneller drucken.",
+          "Kunde: Können Sie mir ein Angebot schicken?",
+          "Mitarbeiterin: Natürlich. Sie hören von mir, sobald ich das Angebot vorbereitet habe.",
+          "Kunde: Vielen Dank für Ihre Beratung.",
+          "Mitarbeiterin: Gern geschehen. Auf Wiederhören!"
+        ]
+      },
+      {
+        "title": "Kurzes Präsentationsbeispiel",
+        "lines": [
+          "Ich möchte kurz den Beruf des Mechatronikers vorstellen. Dazu sage ich zuerst etwas zu den Aufgaben. Danach stelle ich die Ausbildung dar. Dann komme ich zu den notwendigen Fähigkeiten. Am Schluss spreche ich über die Berufschancen.",
+          "Zuerst zu den Aufgaben: Mechatroniker installieren, warten und reparieren technische Anlagen. Als Nächstes komme ich zur Ausbildung. Sie dauert in der Regel dreieinhalb Jahre. Jetzt möchte ich die wichtigsten Fähigkeiten darstellen. Man braucht technisches Verständnis, Sorgfalt und Teamfähigkeit.",
+          "Zusammenfassend kann man sagen, dass der Beruf abwechslungsreich ist und gute Zukunftschancen bietet. Vielen Dank für Ihre Aufmerksamkeit."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lektion 8 Marwan Abbas hat eine Vertretungsstelle",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Um Rat bitten",
+        "items": [
+          {
+            "phrase": "Was kann / könnte man da machen?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich habe morgen zwei wichtige Termine zur gleichen Zeit. Was könnte man da machen?"
+              }
+            ]
+          },
+          {
+            "phrase": "Wäre es besser, wenn …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wäre es besser, wenn wir die Besprechung auf nächste Woche verschieben?"
+              }
+            ]
+          },
+          {
+            "phrase": "Meinen Sie, dass …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Meinen Sie, dass ich mit meinem Vorgesetzten darüber sprechen sollte?"
+              }
+            ]
+          },
+          {
+            "phrase": "Was meinen Sie?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich könnte entweder früher kommen oder länger bleiben. Was meinen Sie?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Vorschlagen / einen Rat geben",
+        "items": [
+          {
+            "phrase": "Wenn Sie wollen, könnten wir …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wenn Sie wollen, könnten wir den Termin telefonisch durchführen."
+              }
+            ]
+          },
+          {
+            "phrase": "Man muss / kann / soll …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Man sollte zuerst mit der zuständigen Abteilung sprechen."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Man kann den Antrag auch online einreichen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Könnten wir nicht …?"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Könnten wir nicht einen neuen Termin für nächste Woche vereinbaren?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich habe / hätte eine Idee / einen Vorschlag: …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Ich hätte einen Vorschlag: Wir könnten die Aufgaben im Team neu verteilen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Warum machen Sie nicht …?"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Warum machen Sie nicht zuerst eine Liste mit allen wichtigen Aufgaben?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Am einfachsten wäre es, wenn …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Am einfachsten wäre es, wenn Sie die Unterlagen per E-Mail schicken würden.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Am einfachsten wäre es, … zu …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Am einfachsten wäre es, direkt beim Kundenservice anzurufen.",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Absagen und Gründe nennen",
+        "items": [
+          {
+            "phrase": "Ich kann leider nicht kommen, weil / denn …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich kann leider nicht kommen, weil ich einen Arzttermin habe."
+              }
+            ]
+          },
+          {
+            "phrase": "Weiteres Beispiel mit „denn“:",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich kann leider nicht kommen, denn ich muss mein Kind abholen."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich muss leider … absagen, weil / denn …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich muss leider die Besprechung absagen, weil ich krank geworden bin."
+              }
+            ]
+          },
+          {
+            "phrase": "Am / Um … habe ich leider keine Zeit, weil / denn …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Am Donnerstag habe ich leider keine Zeit, weil ich an einer Schulung teilnehme."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Um 14 Uhr habe ich leider keine Zeit, denn ich habe bereits einen Kundentermin.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Am / Um … kann ich leider nicht, weil / denn …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Am Montag kann ich leider nicht, weil ich im Außendienst bin.",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Um 10 Uhr kann ich leider nicht, denn zu dieser Zeit findet unsere Teamsitzung statt."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Termin verschieben",
+        "items": [
+          {
+            "phrase": "Am … hätte ich Zeit.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Am Mittwochvormittag hätte ich Zeit."
+              }
+            ]
+          },
+          {
+            "phrase": "Lässt / ließe sich der Termin vielleicht auf … verschieben?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Lässt sich der Termin vielleicht auf Freitag verschieben?"
+              }
+            ],
+            "_next_label": "Höflicher"
+          },
+          {
+            "phrase": "Ließe sich der Termin vielleicht auf nächste Woche verschieben?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Könnten wir / Sie den Termin eventuell auf den … verschieben?"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Könnten wir den Termin eventuell auf den 20. Juli verschieben?",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Könnten Sie den Termin eventuell auf den kommenden Montag verschieben?"
+              }
+            ]
+          },
+          {
+            "phrase": "Würde es Ihnen auch am / um … passen?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Würde es Ihnen auch am Donnerstag passen?"
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Würde es Ihnen auch um 15 Uhr passen?",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "number": "5",
+        "title": "Einen Vorschlag machen",
+        "items": [
+          {
+            "phrase": "Wir könnten Folgendes tun: …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wir könnten Folgendes tun: Zuerst besprechen wir die wichtigsten Punkte telefonisch und vereinbaren später einen persönlichen Termin."
+              }
+            ]
+          },
+          {
+            "phrase": "Können wir …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Können wir die Besprechung auf den Nachmittag verschieben?"
+              }
+            ]
+          },
+          {
+            "phrase": "Ich schlage vor, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich schlage vor, dass wir den Termin um eine Woche verschieben."
+              }
+            ]
+          },
+          {
+            "phrase": "Könnten wir nicht …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Könnten wir nicht stattdessen eine Videokonferenz machen?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Kurzer Beispieldialog",
+        "lines": [
+          "Frau Keller: Guten Tag, Herr Brandt. Ich muss leider unseren Termin am Dienstag absagen, weil ich krank geworden bin.",
+          "Herr Brandt: Das ist kein Problem. Am Donnerstag hätte ich noch Zeit.",
+          "Frau Keller: Würde es Ihnen auch um 14 Uhr passen?",
+          "Herr Brandt: Um 14 Uhr kann ich leider nicht, denn ich habe einen Kundentermin.",
+          "Frau Keller: Lässt sich der Termin vielleicht auf 16 Uhr verschieben?",
+          "Herr Brandt: Ja, das würde mir passen.",
+          "Frau Keller: Gut. Ich schlage vor, dass wir uns am Donnerstag um 16 Uhr treffen.",
+          "Herr Brandt: Einverstanden. Bis Donnerstag."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lektion 9 Das Service-Team von PC-Expert",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Kontakt aufnehmen",
+        "items": [
+          {
+            "phrase": "(Wie) kann ich Ihnen helfen?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Guten Tag. Wie kann ich Ihnen helfen?"
+              }
+            ]
+          },
+          {
+            "phrase": "Kann ich Ihnen behilflich sein?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Sie sehen etwas unsicher aus. Kann ich Ihnen behilflich sein?"
+              }
+            ]
+          },
+          {
+            "phrase": "Guten Tag, Sie wünschen?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Guten Tag, Sie wünschen?"
+              }
+            ],
+            "_next_label": "Mögliche Antwort"
+          },
+          {
+            "phrase": "Ich möchte mich über Ihre Weiterbildungsangebote informieren.",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Etwas empfehlen",
+        "items": [
+          {
+            "phrase": "… kann ich Ihnen nur / überhaupt nicht empfehlen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Dieses Modell kann ich Ihnen nur empfehlen. Es ist zuverlässig und energiesparend."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Dieses Programm kann ich Ihnen überhaupt nicht empfehlen, weil es sehr kompliziert zu bedienen ist.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Es käme aber auch … infrage, allerdings hätte … den Vorteil/Nachteil, dass …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Es käme aber auch das günstigere Modell infrage. Allerdings hätte das teurere Modell den Vorteil, dass es weniger Strom verbraucht.",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Es käme auch eine Online-Schulung infrage. Allerdings hätte ein Präsenzkurs den Vorteil, dass Sie direkt Fragen stellen können."
+              }
+            ]
+          },
+          {
+            "phrase": "… wäre (nicht so) ideal …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Für ein großes Büro wäre dieses kleine Gerät nicht so ideal."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Für Ihre Zwecke wäre das Modell mit größerem Speicher ideal.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Sie könnten auch … nehmen."
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Sie könnten auch dieses neuere Modell nehmen. Es ist etwas teurer, bietet aber mehr Funktionen.",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Widersprechen",
+        "items": [
+          {
+            "phrase": "Ja, das mag sein, aber …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ja, das mag sein, aber wir müssen auch die zusätzlichen Kosten berücksichtigen."
+              }
+            ]
+          },
+          {
+            "phrase": "Ja schon, aber …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ja schon, aber die Lieferzeit ist mit sechs Wochen sehr lang."
+              }
+            ]
+          },
+          {
+            "phrase": "Das stimmt, aber …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das stimmt, aber wir haben bisher noch keine schriftliche Bestätigung erhalten."
+              }
+            ]
+          },
+          {
+            "phrase": "Das stimmt nicht, denn …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das stimmt nicht, denn ich habe die Unterlagen bereits gestern verschickt."
+              }
+            ]
+          },
+          {
+            "phrase": "Das ist so nicht richtig, denn …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das ist so nicht richtig, denn der Termin wurde nicht abgesagt, sondern nur verschoben."
+              }
+            ]
+          },
+          {
+            "phrase": "Da haben Sie recht, allerdings …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Da haben Sie recht, allerdings müssen wir die Entscheidung zuerst mit der Geschäftsleitung besprechen."
+              }
+            ]
+          },
+          {
+            "phrase": "Gut, aber …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Gut, aber wer übernimmt dann die zusätzlichen Aufgaben?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Etwas ablehnen",
+        "items": [
+          {
+            "phrase": "Ich befürchte, dass das ein wenig zu kurzfristig ist.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich befürchte, dass das ein wenig zu kurzfristig ist. Wir brauchen mindestens zwei Tage für die Vorbereitung."
+              }
+            ]
+          },
+          {
+            "phrase": "Es tut mir leid, solche Geräte führen wir nicht.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Es tut mir leid, solche Geräte führen wir nicht. Wir können Ihnen aber ein ähnliches Modell anbieten."
+              }
+            ]
+          },
+          {
+            "phrase": "Nein, das ist zu kurzfristig.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Nein, das ist zu kurzfristig. Die Präsentation kann nicht bis heute Nachmittag fertig sein."
+              }
+            ]
+          },
+          {
+            "phrase": "Bis … werden wir es leider nicht schaffen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Bis Montag werden wir es leider nicht schaffen. Wir könnten den Auftrag aber bis Mittwoch erledigen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "5",
+        "title": "Fehler eingestehen",
+        "items": [
+          {
+            "phrase": "Das ist / war mein Fehler.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das war mein Fehler. Ich habe die falsche Datei verschickt."
+              }
+            ]
+          },
+          {
+            "phrase": "Ja, das habe ich falsch verstanden / notiert.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ja, das habe ich falsch verstanden. Ich dachte, der Termin wäre am Donnerstag."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Ja, das habe ich falsch notiert. Die Kundennummer lautet 1458 und nicht 1485.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das ist / war ein Versehen."
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Die doppelte Buchung war ein Versehen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Da ist etwas schiefgegangen."
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Bei der Bestellung ist etwas schiefgegangen. Die Ware wurde an die falsche Adresse geschickt.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Entschuldigung, das hatte ich (nicht) …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Entschuldigung, das hatte ich nicht richtig verstanden.",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Entschuldigung, das hatte ich anders notiert."
+              }
+            ]
+          },
+          {
+            "phrase": "Es tut mir leid, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Es tut mir leid, dass ich Sie nicht rechtzeitig informiert habe."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "6",
+        "title": "Versichern / Beteuern",
+        "items": [
+          {
+            "phrase": "Es ist tatsächlich so (gewesen), dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Es ist tatsächlich so gewesen, dass das System gestern mehrere Stunden nicht funktioniert hat."
+              }
+            ]
+          },
+          {
+            "phrase": "Das weiß ich genau.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Unterlagen wurden gestern abgeschickt. Das weiß ich genau, weil ich sie selbst zur Post gebracht habe."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich bin ganz sicher (, dass …).",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich bin ganz sicher, dass wir den Termin für Dienstag vereinbart haben."
+              }
+            ]
+          },
+          {
+            "phrase": "Das ist nicht meine Schuld.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das ist nicht meine Schuld. Die Änderung wurde mir nicht mitgeteilt."
+              }
+            ]
+          },
+          {
+            "phrase": "Hinweis: Im Berufsleben klingt es oft höflicher, statt „Das ist nicht meine Schuld“ zu sagen:",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "„Darüber wurde ich leider nicht informiert.“"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Kurzer Beispieldialog",
+        "lines": [
+          "Kundin: Guten Tag. Ich suche einen Drucker für ein kleines Büro.",
+          "Verkäufer: Guten Tag. Wie kann ich Ihnen helfen?",
+          "Kundin: Können Sie mir ein bestimmtes Modell empfehlen?",
+          "Verkäufer: Dieses Modell kann ich Ihnen nur empfehlen. Es ist schnell und energiesparend. Sie könnten aber auch das günstigere Modell nehmen.",
+          "Kundin: Das günstigere Modell ist bestimmt genauso gut.",
+          "Verkäufer: Ja, das mag sein, aber es druckt deutlich langsamer.",
+          "Kundin: Können Sie mir das Gerät bis morgen liefern?",
+          "Verkäufer: Ich befürchte, dass das ein wenig zu kurzfristig ist. Bis morgen werden wir es leider nicht schaffen.",
+          "Kundin: Aber mir wurde gestern eine Lieferung für morgen zugesagt.",
+          "Verkäufer: Einen Moment bitte. Ja, das haben wir tatsächlich falsch notiert. Das war unser Fehler. Es tut mir leid, dass Sie eine falsche Auskunft bekommen haben.",
+          "Kundin: Was können Sie jetzt tun?",
+          "Verkäufer: Ich bin ganz sicher, dass wir das Gerät spätestens übermorgen liefern können. Als Entschädigung übernehmen wir die Lieferkosten."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lektion 10 Jannis Passadakis wartet Flugzeuge",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Gleichbleibende Entwicklungen beschreiben",
+        "items": [
+          {
+            "phrase": "gleich bleiben",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Zahl der Beschäftigten ist im letzten Jahr gleich geblieben."
+              }
+            ]
+          },
+          {
+            "phrase": "konstant bleiben",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Produktionskosten blieben von Januar bis März konstant."
+              }
+            ]
+          },
+          {
+            "phrase": "auf demselben Niveau bleiben",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Arbeitslosenquote ist über mehrere Monate auf demselben Niveau geblieben."
+              }
+            ]
+          },
+          {
+            "phrase": "unverändert sein",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Der Umsatz war im Vergleich zum Vorjahr nahezu unverändert."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Zunehmende Entwicklungen beschreiben",
+        "items": [
+          {
+            "phrase": "zunehmen",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Nachfrage nach Elektroautos hat deutlich zugenommen."
+              }
+            ]
+          },
+          {
+            "phrase": "übertreffen",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Verkaufszahlen haben die Erwartungen des Unternehmens übertroffen."
+              }
+            ]
+          },
+          {
+            "phrase": "sich verbessern",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die wirtschaftliche Lage des Unternehmens hat sich im zweiten Halbjahr verbessert."
+              }
+            ]
+          },
+          {
+            "phrase": "steigen um / auf",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Beispiel mit „um“:"
+              }
+            ]
+          },
+          {
+            "phrase": "Der Umsatz ist um zehn Prozent gestiegen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Beispiel mit „auf“:"
+              }
+            ]
+          },
+          {
+            "phrase": "Der Umsatz ist auf zwei Millionen Euro gestiegen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "ansteigen"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Die Zahl der Onlinebestellungen ist im Dezember stark angestiegen.",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Abnehmende Entwicklungen beschreiben",
+        "items": [
+          {
+            "phrase": "abnehmen",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Zahl der Beschwerden hat in den letzten Monaten abgenommen."
+              }
+            ]
+          },
+          {
+            "phrase": "sinken um / auf",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Beispiel mit „um“:"
+              }
+            ]
+          },
+          {
+            "phrase": "Die Produktionskosten sind um fünf Prozent gesunken.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Beispiel mit „auf“:"
+              }
+            ]
+          },
+          {
+            "phrase": "Die Arbeitslosenquote ist auf vier Prozent gesunken.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "reduzieren"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Das Unternehmen hat seinen Energieverbrauch um 15 Prozent reduziert.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "senken"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Durch neue Maschinen konnte die Firma ihre Kosten deutlich senken.",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Eine Grafik beschreiben",
+        "items": [
+          {
+            "phrase": "Die Grafik zeigt, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Grafik zeigt, dass die Zahl der Beschäftigten seit 2022 gestiegen ist."
+              }
+            ]
+          },
+          {
+            "phrase": "Aus der Grafik geht hervor, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Aus der Grafik geht hervor, dass immer mehr Menschen im Homeoffice arbeiten."
+              }
+            ]
+          },
+          {
+            "phrase": "Wie man sehen kann, …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wie man sehen kann, sind die Verkaufszahlen im Sommer besonders hoch."
+              }
+            ]
+          },
+          {
+            "phrase": "Die Angaben erfolgen in Prozent / Tausend Euro / …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Angaben erfolgen in Prozent und beziehen sich auf die Jahre 2022 bis 2025."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Die Angaben erfolgen in Tausend Euro.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Auffällig / Interessant ist, dass …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Auffällig ist, dass die Nachfrage im Dezember stark ansteigt.",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Interessant ist, dass die Werte im ersten Halbjahr fast unverändert bleiben."
+              }
+            ]
+          },
+          {
+            "phrase": "Im Vergleich zu …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Im Vergleich zum Vorjahr ist der Umsatz um acht Prozent gestiegen."
+              }
+            ]
+          },
+          {
+            "phrase": "In den Jahren von … bis … hat … zugenommen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "In den Jahren von 2021 bis 2025 hat die Zahl der Teilzeitbeschäftigten deutlich zugenommen."
+              }
+            ]
+          },
+          {
+            "phrase": "Seit … nehmen … ab.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Seit 2023 nehmen die Produktionskosten langsam ab."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Kurze Beispielbeschreibung einer Grafik",
+        "lines": [
+          "Die Grafik zeigt die Umsatzentwicklung eines Unternehmens von 2021 bis 2025. Die Angaben erfolgen in Millionen Euro.",
+          "Aus der Grafik geht hervor, dass der Umsatz von 2021 bis 2023 kontinuierlich gestiegen ist. Im Jahr 2021 lag er bei zwei Millionen Euro. Bis 2023 stieg er auf drei Millionen Euro. Das entspricht einer Zunahme um 50 Prozent.",
+          "Im Jahr 2024 blieb der Umsatz auf demselben Niveau. Auffällig ist, dass er im Jahr 2025 leicht auf 2,8 Millionen Euro gesunken ist. Im Vergleich zu 2021 liegt der Umsatz aber weiterhin deutlich höher.",
+          "Zusammenfassend kann man sagen, dass die Entwicklung insgesamt positiv war, obwohl der Umsatz am Ende etwas abgenommen hat."
+        ]
+      },
+      {
+        "title": "Wichtig: um und auf",
+        "lines": [
+          "um beschreibt die Veränderung:",
+          "Der Preis ist um 20 Euro gestiegen.",
+          "auf beschreibt den neuen Endwert:",
+          "Der Preis ist auf 120 Euro gestiegen.",
+          "Beides zusammen:",
+          "Der Preis ist um 20 Euro auf 120 Euro gestiegen."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lektion 11 Simion Ivanov bestellt Holz",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Eine Bestellung schreiben",
+        "items": [
+          {
+            "phrase": "Im Anschluss an unser Telefongespräch heute / vom … bestelle ich …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Im Anschluss an unser Telefongespräch von heute bestelle ich 20 Bürostühle des Modells „Comfort Plus“."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Im Anschluss an unser Telefongespräch vom 10. Juli bestelle ich 50 Packungen Druckerpapier.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Als spätesten Liefertermin haben wir … vereinbart."
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Als spätesten Liefertermin haben wir den 25. Juli vereinbart.",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Als spätesten Liefertermin haben wir Freitag, den 31. Juli, vereinbart."
+              }
+            ]
+          },
+          {
+            "phrase": "Die Lieferung erfolgt …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Lieferung erfolgt kostenlos an unsere Firmenadresse in Karlsruhe."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Die Lieferung erfolgt in zwei Teilmengen innerhalb von zehn Werktagen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Für die Bezahlung innerhalb … gewähren Sie mir bitte …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Für die Bezahlung innerhalb von zehn Tagen gewähren Sie uns bitte zwei Prozent Skonto.",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Für die Bezahlung innerhalb von 14 Tagen gewähren Sie uns bitte den vereinbarten Preisnachlass von fünf Prozent."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich bitte um sofortige Bestätigung meines Auftrags.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich bitte um sofortige Bestätigung meines Auftrags und um Mitteilung des genauen Liefertermins."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Bitte bestätigen Sie meinen Auftrag schriftlich per E-Mail.",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Beispiel für eine vollständige Bestellung",
+        "lines": [
+          "Betreff: Bestellung von 20 Bürostühlen",
+          "Sehr geehrte Damen und Herren,",
+          "im Anschluss an unser Telefongespräch vom 12. Juli bestelle ich folgende Waren:",
+          "20 Bürostühle, Modell „Comfort Plus“",
+          "Farbe: Schwarz",
+          "Einzelpreis: 149 Euro",
+          "Gesamtpreis: 2.980 Euro",
+          "Als spätesten Liefertermin haben wir den 25. Juli vereinbart. Die Lieferung erfolgt kostenlos an unsere Firmenadresse in Karlsruhe.",
+          "Für die Bezahlung innerhalb von zehn Tagen gewähren Sie uns bitte zwei Prozent Skonto.",
+          "Ich bitte um sofortige Bestätigung meines Auftrags und um Mitteilung des genauen Liefertermins.",
+          "Mit freundlichen Grüßen",
+          "Sajjad Unar"
+        ]
+      },
+      {
+        "title": "Zweites Beispiel",
+        "lines": [
+          "Betreff: Bestellung von Büromaterial",
+          "Sehr geehrte Frau Keller,",
+          "im Anschluss an unser Telefongespräch von heute bestelle ich 50 Packungen Druckerpapier und 20 schwarze Druckerpatronen.",
+          "Als spätesten Liefertermin haben wir Montag, den 20. Juli, vereinbart. Die Lieferung erfolgt an unsere Niederlassung in Mannheim.",
+          "Für die Bezahlung innerhalb von 14 Tagen gewähren Sie uns bitte den vereinbarten Rabatt von fünf Prozent.",
+          "Ich bitte um sofortige Bestätigung meines Auftrags.",
+          "Mit freundlichen Grüßen",
+          "Sajjad Unar"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lektion 12 Diêm Nguyen hat sich selbstständig gemacht",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Einwilligung",
+        "items": [
+          {
+            "phrase": "Das kann man machen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wir könnten die Präsentation auf nächste Woche verschieben. – Das kann man machen."
+              }
+            ]
+          },
+          {
+            "phrase": "Das lässt sich machen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Könnten Sie die Lieferung noch bis Freitag organisieren? – Ja, das lässt sich machen."
+              }
+            ]
+          },
+          {
+            "phrase": "Das ist zu machen / machbar.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Der Auftrag muss bis Ende der Woche fertig sein. – Das ist machbar."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Unmöglichkeit ausdrücken",
+        "items": [
+          {
+            "phrase": "Das geht nicht.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Bestellung noch heute zu liefern, geht leider nicht."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich sehe keinen Weg / keine Lösung, …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich sehe keine Lösung, den Termin noch einmal zu verschieben."
+              }
+            ]
+          },
+          {
+            "phrase": "Es gibt keine Möglichkeit, …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Es gibt keine Möglichkeit, die Maschine ohne Ersatzteil zu reparieren."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Bitte / höfliche Aufforderung",
+        "items": [
+          {
+            "phrase": "Ich möchte mich über … informieren.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich möchte mich über Ihre aktuellen Weiterbildungsmöglichkeiten informieren."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich habe / hätte eine Bitte an Sie: …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich hätte eine Bitte an Sie: Könnten Sie mir die Unterlagen per E-Mail schicken?"
+              }
+            ]
+          },
+          {
+            "phrase": "Wäre es möglich, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wäre es möglich, dass Sie den Termin auf Donnerstag verschieben?"
+              }
+            ]
+          },
+          {
+            "phrase": "Ich wollte Sie etwas fragen: …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich wollte Sie etwas fragen: Könnten Sie morgen meine Schicht übernehmen?"
+              }
+            ]
+          },
+          {
+            "phrase": "Würden Sie (mir) bitte …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Würden Sie mir bitte die Rechnung noch einmal zuschicken?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Möglichkeit ausdrücken",
+        "items": [
+          {
+            "phrase": "Das wäre gut / schön / prima.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wir könnten uns am Freitag treffen. – Das wäre prima."
+              }
+            ]
+          },
+          {
+            "phrase": "Wie Sie meinen / wünschen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Soll ich Ihnen die Unterlagen per Post oder per E-Mail schicken? – Wie Sie wünschen."
+              }
+            ]
+          },
+          {
+            "phrase": "Selbstverständlich.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Könnten Sie mir kurz helfen? – Selbstverständlich."
+              }
+            ]
+          },
+          {
+            "phrase": "(Na) gut.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Können wir die Besprechung um eine Stunde verschieben? – Na gut."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "5",
+        "title": "Weigerung",
+        "items": [
+          {
+            "phrase": "Nein.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Können Sie heute länger bleiben? – Nein, heute ist das leider nicht möglich."
+              }
+            ]
+          },
+          {
+            "phrase": "Niemals.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Würden Sie vertrauliche Kundendaten weitergeben? – Niemals."
+              }
+            ]
+          },
+          {
+            "phrase": "Auf keinen Fall.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wir dürfen die Sicherheitsvorschriften auf keinen Fall ignorieren."
+              }
+            ]
+          },
+          {
+            "phrase": "Hinweis: Im Berufsleben klingt eine höflichere Ablehnung meistens besser:",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "„Das ist leider nicht möglich.“"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "6",
+        "title": "Quelle und Thema angeben",
+        "items": [
+          {
+            "phrase": "Ich habe einen Bericht / Artikel in der Zeitung / im Internet gelesen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich habe einen interessanten Artikel im Internet gelesen."
+              }
+            ]
+          },
+          {
+            "phrase": "In der Zeitung / im Internet habe ich gelesen, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Im Internet habe ich gelesen, dass immer mehr Unternehmen flexible Arbeitszeiten anbieten."
+              }
+            ]
+          },
+          {
+            "phrase": "Der Bericht handelt von …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Der Bericht handelt von den Auswirkungen des Homeoffice auf die Mitarbeitenden."
+              }
+            ]
+          },
+          {
+            "phrase": "In dem Bericht / Artikel geht es um …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "In dem Artikel geht es um den Fachkräftemangel in Deutschland."
+              }
+            ]
+          },
+          {
+            "phrase": "In dem Bericht wird beschrieben / dargestellt, dass / wie …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "In dem Bericht wird dargestellt, wie Unternehmen neue Fachkräfte gewinnen können."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "In dem Artikel wird beschrieben, dass viele Beschäftigte gern teilweise im Homeoffice arbeiten.",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "number": "7",
+        "title": "Wichtiges und Interessantes hervorheben",
+        "items": [
+          {
+            "phrase": "(Besonders) interessant / bemerkenswert finde ich …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Besonders interessant finde ich die Aussage, dass flexible Arbeitszeiten die Motivation erhöhen können."
+              }
+            ]
+          },
+          {
+            "phrase": "Hätten Sie gedacht, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Hätten Sie gedacht, dass fast die Hälfte der Befragten regelmäßig im Homeoffice arbeitet?"
+              }
+            ]
+          },
+          {
+            "phrase": "Ich hätte nicht gedacht, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich hätte nicht gedacht, dass so viele Unternehmen Schwierigkeiten haben, Auszubildende zu finden."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich wusste noch gar nicht, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich wusste noch gar nicht, dass die Ausbildung auch in Teilzeit möglich ist."
+              }
+            ]
+          },
+          {
+            "phrase": "Wussten Sie schon, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wussten Sie schon, dass viele Firmen ihren Mitarbeitenden kostenlose Weiterbildungen anbieten?"
+              }
+            ]
+          },
+          {
+            "phrase": "Neu war für mich, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Neu war für mich, dass manche Berufe vollständig im Homeoffice ausgeübt werden können."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Kurzer Beispieldialog",
+        "lines": [
+          "Frau Keller: Ich hätte eine Bitte an Sie: Würden Sie mir bitte den Bericht bis Freitag zuschicken?",
+          "Herr Braun: Selbstverständlich. Das lässt sich machen.",
+          "Frau Keller: Wäre es außerdem möglich, dass Sie eine kurze Zusammenfassung schreiben?",
+          "Herr Braun: Das wäre machbar. Eine vollständige Präsentation kann ich bis Freitag allerdings nicht vorbereiten.",
+          "Frau Keller: Verstehe. Dann reicht eine Zusammenfassung.",
+          "Herr Braun: Gut, wie Sie wünschen."
+        ]
+      },
+      {
+        "title": "Kurzes Beispiel für die Vorstellung eines Artikels",
+        "lines": [
+          "Ich habe einen interessanten Artikel im Internet gelesen. In dem Artikel geht es um flexible Arbeitszeiten. Der Bericht beschreibt, wie Unternehmen ihre Arbeitsmodelle verändern.",
+          "Besonders bemerkenswert finde ich, dass viele Beschäftigte produktiver arbeiten, wenn sie ihre Arbeitszeit teilweise selbst planen können. Ich hätte nicht gedacht, dass flexible Arbeitszeiten auch die Zahl der Krankheitstage reduzieren können.",
+          "Neu war für mich, dass inzwischen auch viele kleinere Unternehmen solche Modelle anbieten."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lektion 13 Luca Varani platzt der Kragen",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Seinen Ärger ausdrücken",
+        "items": [
+          {
+            "phrase": "So eine Unverschämtheit!",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Der Techniker ist schon wieder nicht zum vereinbarten Termin gekommen. So eine Unverschämtheit!"
+              }
+            ]
+          },
+          {
+            "phrase": "Immer das Gleiche!",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Lieferung ist erneut verspätet. Immer das Gleiche!"
+              }
+            ]
+          },
+          {
+            "phrase": "Das kann ja wohl nicht sein.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich warte seit zwei Wochen auf eine Antwort. Das kann ja wohl nicht sein."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Sich entschuldigen",
+        "items": [
+          {
+            "phrase": "Verzeihen Sie, das hatte ich falsch verstanden.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Verzeihen Sie, das hatte ich falsch verstanden. Ich dachte, der Termin wäre erst morgen."
+              }
+            ]
+          },
+          {
+            "phrase": "Es war eigentlich nicht so gemeint.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Es war eigentlich nicht so gemeint. Ich wollte Sie mit meiner Bemerkung nicht verletzen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Einen Fehler einräumen",
+        "items": [
+          {
+            "phrase": "Das ist / war mein Fehler.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das war mein Fehler. Ich habe Ihnen versehentlich die falsche Rechnung geschickt."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Das ist mein Fehler. Ich habe den Termin nicht richtig notiert.",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Lösungsideen sammeln und vorschlagen",
+        "items": [
+          {
+            "phrase": "Wie wäre es, wenn …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wie wäre es, wenn wir einen neuen Liefertermin vereinbaren?"
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Wie wäre es, wenn wir die Aufgaben noch einmal gemeinsam verteilen?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Vielleicht können wir uns so einigen, dass …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Vielleicht können wir uns so einigen, dass Sie die Hälfte heute und den Rest nächste Woche bezahlen.",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Vielleicht können wir uns so einigen, dass wir den Termin auf Freitag verschieben."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Kurzer Beispieldialog",
+        "lines": [
+          "Kundin: Ich warte schon seit drei Wochen auf meine Bestellung. Das kann ja wohl nicht sein!",
+          "Mitarbeiter: Verzeihen Sie, das hatte ich falsch verstanden. Ich dachte, die Ware wäre bereits verschickt worden.",
+          "Kundin: Immer das Gleiche! Bei meiner letzten Bestellung gab es auch Probleme.",
+          "Mitarbeiter: Das war unser Fehler. Es tut mir leid.",
+          "Kundin: Und was machen wir jetzt?",
+          "Mitarbeiter: Wie wäre es, wenn wir die Ware heute per Express versenden?",
+          "Kundin: Das wäre möglich, aber ich möchte nicht noch mehr bezahlen.",
+          "Mitarbeiter: Vielleicht können wir uns so einigen, dass wir die Expresskosten vollständig übernehmen.",
+          "Kundin: Gut, damit bin ich einverstanden."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lektion 14 Dana Scott kandidiert für den Betriebsrat",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Nach dem Problem fragen",
+        "items": [
+          {
+            "phrase": "Worum geht es?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Worum geht es genau? Können Sie mir die Situation kurz erklären?"
+              }
+            ]
+          },
+          {
+            "phrase": "Was ist Ihr Problem?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Was ist Ihr Problem mit der neuen Arbeitszeitregelung?"
+              }
+            ]
+          },
+          {
+            "phrase": "Im Berufsleben klingt oft höflicher:",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "„Was genau ist das Problem?“"
+              }
+            ]
+          },
+          {
+            "phrase": "Stellen Sie mir bitte Ihr Problem dar!",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Stellen Sie mir bitte Ihr Problem dar, damit wir gemeinsam eine Lösung finden können."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Problemschilderung",
+        "items": [
+          {
+            "phrase": "Es geht um Folgendes:",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Es geht um Folgendes: Seit der Einführung des neuen Systems werden meine Arbeitszeiten nicht korrekt erfasst."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich habe folgendes Problem:",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich habe folgendes Problem: Mein Computer stürzt mehrmals am Tag ab."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Beschwichtigen",
+        "items": [
+          {
+            "phrase": "Nur mit der Ruhe!",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Nur mit der Ruhe! Wir prüfen zuerst, was genau passiert ist."
+              }
+            ]
+          },
+          {
+            "phrase": "Höflicher im beruflichen Gespräch:",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "„Bleiben Sie bitte ruhig. Wir finden bestimmt eine Lösung.“"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Um Rat bitten",
+        "items": [
+          {
+            "phrase": "Was mache ich denn da jetzt am besten?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Mein Antrag wurde abgelehnt. Was mache ich denn da jetzt am besten?"
+              }
+            ]
+          },
+          {
+            "phrase": "Können Sie mir einen Rat geben?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Können Sie mir einen Rat geben, wie ich mit diesem Konflikt umgehen soll?"
+              }
+            ]
+          },
+          {
+            "phrase": "Wozu würden Sie mir raten?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich könnte entweder eine Beschwerde schreiben oder direkt mit meinem Vorgesetzten sprechen. Wozu würden Sie mir raten?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "5",
+        "title": "Einen Vorschlag machen",
+        "items": [
+          {
+            "phrase": "Wie wär’s denn, wenn Sie mit … sprechen?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wie wär’s denn, wenn Sie zuerst mit Ihrer Teamleiterin sprechen?"
+              }
+            ]
+          },
+          {
+            "phrase": "Dann möchte ich den Vorschlag machen, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Dann möchte ich den Vorschlag machen, dass wir einen gemeinsamen Gesprächstermin vereinbaren."
+              }
+            ]
+          },
+          {
+            "phrase": "Wenn Sie wollen / einverstanden sind, können wir …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wenn Sie einverstanden sind, können wir das Problem direkt an die Personalabteilung weiterleiten."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Wenn Sie wollen, können wir gemeinsam eine schriftliche Beschwerde formulieren.",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Kurzer Beispieldialog",
+        "lines": [
+          "Beraterin: Guten Tag. Worum geht es?",
+          "Mitarbeiter: Es geht um Folgendes: Meine Überstunden wurden im letzten Monat nicht vollständig erfasst.",
+          "Beraterin: Stellen Sie mir bitte das Problem etwas genauer dar.",
+          "Mitarbeiter: Ich habe folgendes Problem: Laut meiner eigenen Liste habe ich 18 Überstunden gemacht, aber im System stehen nur zehn.",
+          "Beraterin: Nur mit der Ruhe. Wir prüfen zuerst die Arbeitszeitnachweise.",
+          "Mitarbeiter: Was mache ich denn da jetzt am besten?",
+          "Beraterin: Wie wär’s denn, wenn Sie zunächst mit Ihrer Teamleiterin sprechen?",
+          "Mitarbeiter: Ich habe schon mit ihr gesprochen, aber wir konnten das Problem nicht lösen. Wozu würden Sie mir raten?",
+          "Beraterin: Dann möchte ich den Vorschlag machen, dass wir uns gemeinsam an die Personalabteilung wenden.",
+          "Mitarbeiter: Ja, das wäre gut.",
+          "Beraterin: Wenn Sie einverstanden sind, können wir gleich einen Termin vereinbaren."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lektion 15 Marek Prazak möchte sich beruﬂich verändern",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Eine fremde Meinung darstellen",
+        "items": [
+          {
+            "phrase": "… sehen berufliche Neustarts positiv / negativ.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Viele Arbeitnehmer sehen berufliche Neustarts positiv, weil sie dadurch neue Chancen bekommen."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Manche Unternehmen sehen häufige berufliche Wechsel eher negativ.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "… haben eine positive / negative Meinung / Einstellung zu …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Viele junge Menschen haben eine positive Einstellung zu Weiterbildungen und beruflichen Veränderungen.",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Einige ältere Beschäftigte haben eine eher negative Meinung zu einem kompletten Berufswechsel."
+              }
+            ]
+          },
+          {
+            "phrase": "… äußern sich positiv / kritisch …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die befragten Arbeitnehmer äußern sich positiv über flexible Arbeitsmodelle."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Viele Experten äußern sich kritisch zu unsicheren Arbeitsverhältnissen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "… betonen die positiven / negativen Seiten …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Die Teilnehmer der Umfrage betonen die positiven Seiten eines beruflichen Neuanfangs.",
+            "examples": [
+              {
+                "label": "Weiteres Beispiel",
+                "text": "Andere Befragte betonen die negativen Seiten, zum Beispiel finanzielle Unsicherheit und fehlende Berufserfahrung."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Kurzes Beispiel zur Darstellung verschiedener Meinungen",
+        "lines": [
+          "Viele Menschen sehen einen beruflichen Neustart positiv. Sie haben eine positive Einstellung zu neuen Herausforderungen und Weiterbildungsmöglichkeiten. Besonders jüngere Beschäftigte äußern sich oft positiv über einen Berufswechsel.",
+          "Andere Personen sehen einen beruflichen Neustart eher kritisch. Sie betonen vor allem die negativen Seiten, zum Beispiel ein unsicheres Einkommen, eine längere Einarbeitungszeit oder fehlende Erfahrung im neuen Beruf.",
+          "Insgesamt haben die Befragten unterschiedliche Meinungen zu beruflichen Veränderungen."
+        ]
+      },
+      {
+        "title": "Kurzer Beispieldialog",
+        "lines": [
+          "Person A: Wie denken die Beschäftigten über einen Berufswechsel?",
+          "Person B: Viele sehen einen beruflichen Neustart positiv. Sie betonen die neuen Chancen und besseren Entwicklungsmöglichkeiten.",
+          "Person A: Gibt es auch kritische Meinungen?",
+          "Person B: Ja. Einige äußern sich kritisch und betonen die finanziellen Risiken sowie die Unsicherheit in der Anfangszeit."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lektion-A: Redemittel – Über eine Grafik oder ein Schaubild sprechen",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Das Thema der Grafik / des Schaubildes formulieren",
+        "items": [
+          {
+            "phrase": "Die Grafik / Das Balkendiagramm / Das Kreisdiagramm zeigt …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das Balkendiagramm zeigt die größten Handelspartner Deutschlands im Jahr 2017."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Das Kreisdiagramm zeigt die Exporte Deutschlands im Jahr 2017 in Milliarden Euro.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Grafik verdeutlicht …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Die Grafik verdeutlicht die Bedeutung Chinas und der Niederlande für den deutschen Außenhandel.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Grafik bringt zum Ausdruck, dass …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Die Grafik bringt zum Ausdruck, dass China der wichtigste Importpartner Deutschlands war.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das Schaubild informiert über …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Das Schaubild informiert über die wichtigsten Handelspartner Deutschlands.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Grafik gibt Informationen / Auskunft über …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Die Grafik gibt Auskunft über die Höhe der deutschen Importe und Exporte.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Aus der Grafik geht hervor, dass …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Aus der Grafik geht hervor, dass Deutschland im Jahr 2017 besonders viele Waren aus China importiert hat.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Aus der Grafik kann man entnehmen, dass …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Aus der Grafik kann man entnehmen, dass die Vereinigten Staaten der wichtigste Exportmarkt Deutschlands waren.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "In der Grafik geht es um …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "In der Grafik geht es um den deutschen Außenhandel im Jahr 2017.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "In dem Schaubild ist deutlich zu erkennen, dass …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "In dem Schaubild ist deutlich zu erkennen, dass die Importe aus China wesentlich höher waren als die Importe aus Belgien.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Man kann in der Grafik deutlich erkennen, dass …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Man kann in der Grafik deutlich erkennen, dass China und die Niederlande an der Spitze stehen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die folgende Grafik liefert uns Informationen zu dem Thema …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Die folgende Grafik liefert uns Informationen zu dem Thema „Deutschlands wichtigste Handelspartner“.",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Auf die Quelle eingehen",
+        "items": [
+          {
+            "phrase": "Die Daten stammen aus der / dem …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Daten stammen aus einer Veröffentlichung des Statistischen Bundesamtes."
+              }
+            ]
+          },
+          {
+            "phrase": "Die Daten stammen von der / dem …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Daten stammen vom Statistischen Bundesamt."
+              }
+            ]
+          },
+          {
+            "phrase": "Es handelt sich um Daten des / der …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Es handelt sich um Daten des Statistischen Bundesamtes."
+              }
+            ]
+          },
+          {
+            "phrase": "Die Quelle ist …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Quelle ist das Statistische Bundesamt."
+              }
+            ]
+          },
+          {
+            "phrase": "Die Zahlen wurden auf der / auf dem / in der / in dem … veröffentlicht.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Zahlen wurden auf der Internetseite des Statistischen Bundesamtes veröffentlicht."
+              }
+            ]
+          },
+          {
+            "phrase": "Die Zahlen wurden von der / von dem … veröffentlicht.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Die Zahlen wurden vom Statistischen Bundesamt veröffentlicht."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Die Informationen der Grafik interpretieren, bewerten und Vermutungen aufstellen",
+        "items": [
+          {
+            "phrase": "Ich vermute / nehme an, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich vermute, dass China wegen seiner großen industriellen Produktion ein wichtiger Importpartner Deutschlands ist."
+              }
+            ]
+          },
+          {
+            "phrase": "Wahrscheinlich hängt … damit zusammen, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wahrscheinlich hängt der hohe Importwert aus China damit zusammen, dass Deutschland viele elektronische Geräte und Bauteile aus China bezieht."
+              }
+            ]
+          },
+          {
+            "phrase": "Möglicherweise hängt … damit zusammen, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Möglicherweise hängt die starke Position der Niederlande damit zusammen, dass viele Waren über niederländische Häfen transportiert werden."
+              }
+            ]
+          },
+          {
+            "phrase": "Vermutlich hängt … damit zusammen, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Vermutlich hängt der hohe Exportwert in die Vereinigten Staaten damit zusammen, dass deutsche Autos und Maschinen dort sehr gefragt sind."
+              }
+            ]
+          },
+          {
+            "phrase": "Es könnte sein, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Es könnte sein, dass Frankreich wegen seiner geografischen Nähe ein besonders wichtiger Handelspartner ist."
+              }
+            ]
+          },
+          {
+            "phrase": "Ein Grund dafür könnte sein, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ein Grund dafür könnte sein, dass Deutschland mit vielen europäischen Ländern eng wirtschaftlich verbunden ist."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich könnte mir vorstellen, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich könnte mir vorstellen, dass die Handelszahlen heute anders aussehen als im Jahr 2017."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Argumente abwägen",
+        "items": [
+          {
+            "phrase": "Auf der einen Seite …, auf der anderen Seite …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Auf der einen Seite schafft der internationale Handel viele Arbeitsplätze, auf der anderen Seite kann er zu einer starken Abhängigkeit von anderen Ländern führen."
+              }
+            ]
+          },
+          {
+            "phrase": "Einerseits …, andererseits …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Einerseits sind Importe wichtig für die deutsche Wirtschaft, andererseits können Lieferprobleme große Auswirkungen auf Unternehmen haben."
+              }
+            ]
+          },
+          {
+            "phrase": "Zum einen …, zum anderen …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Zum einen profitieren Verbraucher von einer großen Produktauswahl, zum anderen geraten einheimische Unternehmen unter stärkeren Konkurrenzdruck."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "5",
+        "title": "Die eigene Meinung äußern / ein Fazit ziehen",
+        "items": [
+          {
+            "phrase": "Meiner Meinung nach …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Meiner Meinung nach ist ein vielfältiger Außenhandel für Deutschland besonders wichtig."
+              }
+            ]
+          },
+          {
+            "phrase": "Meiner Ansicht nach …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Meiner Ansicht nach sollte Deutschland seine Handelsbeziehungen auf möglichst viele Länder verteilen."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich vertrete die Meinung / Ansicht, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich vertrete die Ansicht, dass Deutschland wirtschaftliche Abhängigkeiten reduzieren sollte."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich denke / glaube / finde, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich denke, dass der Handel mit den Nachbarländern auch in Zukunft eine wichtige Rolle spielen wird."
+              }
+            ]
+          },
+          {
+            "phrase": "Zusammenfassend kann man sagen, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Zusammenfassend kann man sagen, dass Deutschland im Jahr 2017 enge Handelsbeziehungen zu europäischen Ländern, China und den Vereinigten Staaten hatte."
+              }
+            ]
+          },
+          {
+            "phrase": "Insgesamt lässt sich sagen, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Insgesamt lässt sich sagen, dass China bei den Importen und die Vereinigten Staaten bei den Exporten besonders wichtig waren."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Nützliche Redemittel zum Vergleichen von Zahlen",
+        "lines": [
+          "… liegt an erster / zweiter / letzter Stelle.",
+          "Beispiel:",
+          "China liegt bei den Importen an erster Stelle.",
+          "… ist höher / niedriger als …",
+          "Beispiel:",
+          "Der Importwert aus China ist höher als der Importwert aus Frankreich.",
+          "… ist ungefähr doppelt so hoch wie …",
+          "Beispiel:",
+          "Der Importwert aus China ist ungefähr doppelt so hoch wie der Importwert aus Polen.",
+          "… liegt bei … Milliarden Euro.",
+          "Beispiel:",
+          "Der Exportwert in die Vereinigten Staaten liegt bei 112 Milliarden Euro.",
+          "… macht den größten / kleinsten Anteil aus.",
+          "Beispiel:",
+          "Die Vereinigten Staaten machen den größten Anteil an den dargestellten Exporten aus.",
+          "Im Vergleich zu …",
+          "Beispiel:",
+          "Im Vergleich zu den Vereinigten Staaten ist der Exportwert in die Schweiz deutlich niedriger.",
+          "Während …, …",
+          "Beispiel:",
+          "Während Deutschland Waren im Wert von 112 Milliarden Euro in die Vereinigten Staaten exportierte, betrugen die Exporte nach Belgien nur 44 Milliarden Euro."
+        ]
+      },
+      {
+        "title": "Vollständiges Beispiel einer Grafikbeschreibung",
+        "lines": [
+          "Das Balkendiagramm zeigt die größten Importpartner Deutschlands im Jahr 2017. Das Kreisdiagramm informiert über die deutschen Exporte in wichtige Partnerländer. Die Angaben erfolgen in Milliarden Euro. Die Daten stammen vom Statistischen Bundesamt.",
+          "Aus dem Balkendiagramm geht hervor, dass China mit ungefähr 100 Milliarden Euro der wichtigste Importpartner Deutschlands war. An zweiter Stelle lagen die Niederlande mit rund 90 Milliarden Euro. Danach folgten Frankreich, die Vereinigten Staaten und Italien. Belgien lag mit ungefähr 40 Milliarden Euro am Ende der dargestellten Länder.",
+          "Das Kreisdiagramm zeigt, dass die Vereinigten Staaten mit 112 Milliarden Euro das wichtigste Zielland für deutsche Exporte waren. Frankreich lag mit 105 Milliarden Euro an zweiter Stelle. Danach folgten China und die Niederlande mit jeweils 86 Milliarden Euro. Die Schweiz wies mit 44 Milliarden Euro den niedrigsten Exportwert auf.",
+          "Auffällig ist, dass China bei den Importen an erster Stelle stand, bei den Exporten aber nur den dritten Platz belegte. Die Vereinigten Staaten waren dagegen besonders als Exportmarkt wichtig. Ein Grund dafür könnte sein, dass deutsche Autos, Maschinen und technische Produkte in den Vereinigten Staaten stark nachgefragt wurden.",
+          "Einerseits zeigt die Grafik, wie international die deutsche Wirtschaft ausgerichtet ist. Andererseits wird auch deutlich, dass Deutschland von einigen großen Handelspartnern abhängig ist.",
+          "Insgesamt lässt sich sagen, dass China, die Niederlande, Frankreich und die Vereinigten Staaten im Jahr 2017 eine besonders wichtige Rolle für den deutschen Außenhandel spielten."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lektion-B: Redemittel – Diskussionen mit Beispielen",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Meinung äußern",
+        "items": [
+          {
+            "phrase": "Ich bin der Meinung, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich bin der Meinung, dass flexible Arbeitszeiten die Motivation der Mitarbeitenden erhöhen."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich bin überzeugt, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich bin überzeugt, dass regelmäßige Weiterbildungen für den beruflichen Erfolg sehr wichtig sind."
+              }
+            ]
+          },
+          {
+            "phrase": "Meiner Meinung nach …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Meiner Meinung nach sollten Unternehmen mehr Möglichkeiten für Homeoffice anbieten."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich denke / meine / finde, …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich denke, dass eine gute Kommunikation im Team viele Probleme vermeiden kann."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Ich finde, die Arbeitsbedingungen sollten verbessert werden.",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Zustimmung",
+        "items": [
+          {
+            "phrase": "Das sehe ich genauso / wie …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Gute Kommunikation ist für ein erfolgreiches Team sehr wichtig. – Das sehe ich genauso."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Das sehe ich genauso wie Frau Keller.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Da kann ich nur zustimmen."
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Weiterbildung verbessert die beruflichen Chancen. – Da kann ich nur zustimmen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Da bin ich ganz Ihrer Meinung."
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Die Mitarbeitenden sollten frühzeitig über Veränderungen informiert werden. – Da bin ich ganz Ihrer Meinung.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das halte ich für richtig."
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Man sollte neue Mitarbeitende gründlich einarbeiten. – Das halte ich für richtig.",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Widerspruch",
+        "items": [
+          {
+            "phrase": "Ich kann … nicht zustimmen, weil …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich kann dieser Aussage nicht zustimmen, weil nicht alle Mitarbeitenden von zu Hause aus arbeiten können."
+              }
+            ]
+          },
+          {
+            "phrase": "Das sehe ich anders.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Homeoffice ist immer produktiver. – Das sehe ich anders."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich denke / glaube nicht, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich glaube nicht, dass längere Arbeitszeiten automatisch zu besseren Ergebnissen führen."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich habe meine Zweifel, …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich habe meine Zweifel, ob diese Maßnahme wirklich Kosten sparen wird."
+              }
+            ]
+          },
+          {
+            "phrase": "Das halte ich für falsch.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Alle Entscheidungen sollten nur von der Geschäftsleitung getroffen werden. – Das halte ich für falsch."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Um das Wort bitten",
+        "items": [
+          {
+            "phrase": "Dürfte ich zu der Aussage / dem Argument / dazu kurz etwas sagen?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Dürfte ich zu diesem Argument kurz etwas sagen?"
+              }
+            ]
+          },
+          {
+            "phrase": "Dürfte ich dazu kurz etwas ergänzen?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Dürfte ich dazu kurz etwas ergänzen? Meiner Erfahrung nach ist eine gute Planung besonders wichtig."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich möchte zu der Aussage / dem Argument / dazu etwas sagen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich möchte zu der Aussage von Herrn Weber etwas sagen."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich möchte dazu etwas ergänzen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich möchte dazu etwas ergänzen: Auch die Kosten sollten berücksichtigt werden."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "5",
+        "title": "Rückfragen stellen",
+        "items": [
+          {
+            "phrase": "Meinen Sie damit, dass …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Meinen Sie damit, dass alle Mitarbeitenden künftig im Schichtdienst arbeiten sollen?"
+              }
+            ]
+          },
+          {
+            "phrase": "Können Sie … genauer erklären?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Können Sie bitte genauer erklären, wie die neue Arbeitszeitregelung funktionieren soll?"
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Können Sie Ihr Argument etwas genauer erklären?",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Kurzer Beispieldialog",
+        "lines": [
+          "Frau Keller: Ich bin der Meinung, dass alle Mitarbeitenden mindestens zwei Tage pro Woche im Homeoffice arbeiten sollten.",
+          "Herr Braun: Da bin ich ganz Ihrer Meinung. Das könnte die Vereinbarkeit von Beruf und Familie verbessern.",
+          "Frau Sommer: Das sehe ich anders. Nicht alle Aufgaben können von zu Hause aus erledigt werden.",
+          "Herr Braun: Dürfte ich dazu kurz etwas sagen? Man könnte für verschiedene Abteilungen unterschiedliche Regelungen einführen.",
+          "Frau Keller: Das halte ich für richtig.",
+          "Frau Sommer: Meinen Sie damit, dass jede Abteilung selbst entscheiden soll?",
+          "Herr Braun: Ja, genau. Ich bin überzeugt, dass eine flexible Lösung besser wäre.",
+          "Frau Sommer: Ich habe allerdings meine Zweifel, ob das nicht zu ungerechten Regelungen führen könnte.",
+          "Frau Keller: Können Sie das bitte genauer erklären?",
+          "Frau Sommer: Manche Teams könnten mehr Homeoffice bekommen als andere. Deshalb sollte es gemeinsame Mindestregeln geben."
+        ]
+      },
+      {
+        "title": "Nützliche Erweiterungen für eine B2-Diskussion",
+        "lines": [
+          "Teilweise zustimmen",
+          "Da haben Sie teilweise recht, aber …",
+          "Im Prinzip stimme ich Ihnen zu, allerdings …",
+          "Einerseits haben Sie recht, andererseits …",
+          "Beispiel:",
+          "Im Prinzip stimme ich Ihnen zu, allerdings müssen wir auch die Kosten berücksichtigen.",
+          "Ein Beispiel nennen",
+          "Ein gutes Beispiel dafür ist …",
+          "Zum Beispiel …",
+          "Das zeigt sich besonders bei …",
+          "Beispiel:",
+          "Ein gutes Beispiel dafür ist unsere Produktionsabteilung, in der Homeoffice nicht möglich ist.",
+          "Ein Fazit ziehen",
+          "Zusammenfassend kann man sagen, dass …",
+          "Insgesamt bin ich der Ansicht, dass …",
+          "Abschließend möchte ich betonen, dass …",
+          "Beispiel:",
+          "Zusammenfassend kann man sagen, dass flexible Lösungen besser sind als eine Regelung für alle."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lektion-C: Redemittel – Sprechen Teil 3: Gemeinsam eine Lösung finden",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Gespräch beginnen und das Problem strukturieren",
+        "items": [
+          {
+            "phrase": "Wir sollten über das folgende Problem sprechen und versuchen, eine Lösung zu finden.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wir sollten über das Problem mit den verspäteten Lieferungen sprechen und versuchen, eine Lösung zu finden."
+              }
+            ]
+          },
+          {
+            "phrase": "Wie sollten wir vorgehen?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wie sollten wir vorgehen? Sollen wir zuerst die Beschwerden der Kunden sammeln?"
+              }
+            ]
+          },
+          {
+            "phrase": "Zuerst sollten wir …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Zuerst sollten wir alle Reklamationen sammeln und auf Papier bringen."
+              }
+            ]
+          },
+          {
+            "phrase": "Wer kontaktiert …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wer kontaktiert die Kunden, die sich über die verspätete Lieferung beschwert haben?"
+              }
+            ]
+          },
+          {
+            "phrase": "Was könnte man ihnen anbieten?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Was könnte man den betroffenen Kunden anbieten? Vielleicht einen Preisnachlass oder einen Gutschein?"
+              }
+            ]
+          },
+          {
+            "phrase": "Was hältst du / halten Sie davon, wenn wir …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Was halten Sie davon, wenn wir allen betroffenen Kunden einen Gutschein schicken?"
+              }
+            ]
+          },
+          {
+            "phrase": "Ich schlage vor, wir verlangen, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich schlage vor, wir verlangen, dass der Lieferant die Ware künftig pünktlich liefert."
+              }
+            ]
+          },
+          {
+            "phrase": "Außerdem könnten wir …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Außerdem könnten wir einen zweiten Lieferanten suchen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Einen Lösungsweg diskutieren",
+        "items": [
+          {
+            "phrase": "Wir sollten dem Lieferanten einen Termin setzen mit Konsequenzen, wenn er diesen nicht einhält.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wir sollten dem Lieferanten eine Frist bis Freitag setzen. Wenn er sie nicht einhält, sollten wir den Vertrag prüfen."
+              }
+            ]
+          },
+          {
+            "phrase": "Wenn es zu weiteren Beschwerden kommt, sollten wir einen anderen Lieferanten nehmen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wenn es zu weiteren Kundenbeschwerden kommt, sollten wir einen zuverlässigeren Lieferanten suchen."
+              }
+            ]
+          },
+          {
+            "phrase": "Ein inländischer Anbieter ist zwar teurer, hätte aber viele Vorteile, zum Beispiel …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ein inländischer Anbieter ist zwar teurer, hätte aber kürzere Lieferwege und könnte schneller reagieren."
+              }
+            ]
+          },
+          {
+            "phrase": "Einverstanden. Das ist eine Möglichkeit / eine gute Lösung.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Einverstanden. Einen zweiten Lieferanten zu suchen, ist eine gute Lösung."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Etwas vorschlagen",
+        "items": [
+          {
+            "phrase": "Ich habe eine Idee / einen Vorschlag: …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich habe einen Vorschlag: Wir könnten die Kunden persönlich anrufen."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich schlage vor, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich schlage vor, dass wir den Kunden die Versandkosten erstatten."
+              }
+            ]
+          },
+          {
+            "phrase": "Mein Vorschlag wäre …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Mein Vorschlag wäre, zunächst mit dem Lieferanten zu sprechen."
+              }
+            ]
+          },
+          {
+            "phrase": "Wollen wir …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wollen wir zuerst eine Liste mit allen Beschwerden erstellen?"
+              }
+            ]
+          },
+          {
+            "phrase": "Wir könnten auch …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wir könnten auch eine Entschuldigung per E-Mail verschicken."
+              }
+            ]
+          },
+          {
+            "phrase": "Was hältst du / halten Sie davon, wenn …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Was halten Sie davon, wenn wir den Kunden zehn Prozent Rabatt anbieten?"
+              }
+            ]
+          },
+          {
+            "phrase": "Wie findest du / finden Sie …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wie finden Sie die Idee, einen neuen Lieferdienst zu beauftragen?"
+              }
+            ]
+          },
+          {
+            "phrase": "Was meinst du / meinen Sie, wenn …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Was meinen Sie, wenn wir den Lieferanten zunächst schriftlich abmahnen?"
+              }
+            ]
+          },
+          {
+            "phrase": "Natürlicher klingt häufig:",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Was meinst du / meinen Sie dazu, wenn wir …?"
+              }
+            ]
+          },
+          {
+            "phrase": "Vielleicht wäre es besser, wenn …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Vielleicht wäre es besser, wenn wir zunächst mit allen Beteiligten sprechen würden."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Zustimmen",
+        "items": [
+          {
+            "phrase": "Ja, das ist eine gute Idee / ein guter Vorschlag. Dazu könnten wir noch …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ja, das ist eine gute Idee. Dazu könnten wir noch einen Gutschein anbieten."
+              }
+            ]
+          },
+          {
+            "phrase": "Das gefällt mir. Wir dürfen aber nicht vergessen, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das gefällt mir. Wir dürfen aber nicht vergessen, dass die Maßnahme zusätzliche Kosten verursacht."
+              }
+            ]
+          },
+          {
+            "phrase": "Das finde ich gut. Weiter finde ich wichtig, …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das finde ich gut. Weiter finde ich wichtig, die Kunden schnell zu informieren."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich bin deiner / Ihrer Meinung. Wir müssen auch noch …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich bin Ihrer Meinung. Wir müssen auch noch die Geschäftsleitung informieren."
+              }
+            ]
+          },
+          {
+            "phrase": "Damit bin ich einverstanden.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Damit bin ich einverstanden. Dann kontaktieren wir den Lieferanten heute noch."
+              }
+            ]
+          },
+          {
+            "phrase": "Dem kann ich nur zustimmen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Dem kann ich nur zustimmen. Die Kunden sollten eine Entschädigung erhalten."
+              }
+            ]
+          },
+          {
+            "phrase": "Du hast / Sie haben recht, so machen wir es. Dann …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Sie haben recht, so machen wir es. Dann schreiben wir zuerst eine E-Mail an den Lieferanten."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "5",
+        "title": "Zweifel ausdrücken",
+        "items": [
+          {
+            "phrase": "Ich weiß nicht. Vielleicht sollten wir eher …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich weiß nicht. Vielleicht sollten wir eher zuerst mit dem Lieferanten sprechen, bevor wir den Vertrag kündigen."
+              }
+            ]
+          },
+          {
+            "phrase": "Vielleicht können wir das so machen, aber …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Vielleicht können wir das so machen, aber wir sollten vorher die Kosten berechnen."
+              }
+            ]
+          },
+          {
+            "phrase": "Das ist zwar ein ganz guter / kein schlechter Vorschlag, aber …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das ist zwar ein ganz guter Vorschlag, aber er lässt sich nicht so schnell umsetzen."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich finde es besser, wenn …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich finde es besser, wenn wir den Kunden direkt eine konkrete Lösung anbieten."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "6",
+        "title": "Ablehnen oder widersprechen",
+        "items": [
+          {
+            "phrase": "Es tut mir leid, aber ich kann dir / Ihnen nicht zustimmen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Es tut mir leid, aber ich kann Ihnen nicht zustimmen. Ein sofortiger Anbieterwechsel wäre zu riskant."
+              }
+            ]
+          },
+          {
+            "phrase": "Da muss ich dir / Ihnen widersprechen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Da muss ich Ihnen widersprechen. Nicht alle Beschwerden wurden vom Lieferanten verursacht."
+              }
+            ]
+          },
+          {
+            "phrase": "Besser wäre, wenn …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Besser wäre, wenn wir dem Lieferanten zunächst eine letzte Frist setzen würden."
+              }
+            ]
+          },
+          {
+            "phrase": "Das finde ich nicht gut. Ich habe eine andere Idee: …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das finde ich nicht gut. Ich habe eine andere Idee: Wir könnten zuerst ein persönliches Gespräch führen."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich bin ganz anderer Meinung. Wir sollten …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich bin ganz anderer Meinung. Wir sollten den Kunden sofort eine Entschädigung anbieten."
+              }
+            ]
+          },
+          {
+            "phrase": "Das kommt nicht infrage, so geht es nicht. Wir müssen auf jeden Fall zuerst …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das kommt nicht infrage. Wir müssen auf jeden Fall zuerst prüfen, wer für den Fehler verantwortlich ist."
+              }
+            ]
+          },
+          {
+            "phrase": "Diese Formulierung ist sehr direkt. Höflicher ist:",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "„Das halte ich im Moment nicht für die beste Lösung.“"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "7",
+        "title": "Einen Kompromiss vorschlagen",
+        "items": [
+          {
+            "phrase": "Als Kompromiss schlage ich vor, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Als Kompromiss schlage ich vor, dass wir dem Lieferanten noch eine letzte Chance geben und gleichzeitig nach Alternativen suchen."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Hinweise",
+        "lines": [
+          "Die Redemittel auf der Seite helfen besonders bei einer B2-Prüfungsaufgabe, in der zwei Personen ein Problem besprechen, Vorschläge machen, zustimmen, widersprechen und am Ende einen Kompromiss finden sollen."
+        ]
+      },
+      {
+        "title": "Weitere Redemittel für die Diskussion",
+        "lines": []
+      },
+      {
+        "title": "Weitere nützliche Formulierungen",
+        "lines": [
+          "Vielleicht können wir uns darauf einigen, dass …",
+          "Beispiel:",
+          "Vielleicht können wir uns darauf einigen, dass die Kunden einen Gutschein erhalten und der Lieferant eine neue Frist bekommt.",
+          "Wie wäre es mit folgendem Kompromiss: …?",
+          "Beispiel:",
+          "Wie wäre es mit folgendem Kompromiss: Wir wechseln den Lieferanten nicht sofort, bestellen aber zunächst nur noch kleinere Mengen.",
+          "Dann machen wir es so: …",
+          "Beispiel:",
+          "Dann machen wir es so: Sie kontaktieren den Lieferanten und ich informiere die Kunden."
+        ]
+      },
+      {
+        "title": "Vollständiger Beispieldialog für die B2-Prüfung",
+        "lines": [
+          "Person A:",
+          "Wir sollten über das Problem mit den vielen Kundenbeschwerden sprechen und versuchen, eine Lösung zu finden. Wie sollten wir vorgehen?",
+          "Person B:",
+          "Zuerst sollten wir alle Reklamationen sammeln und prüfen, welche Probleme am häufigsten vorkommen.",
+          "Person A:",
+          "Ja, das ist eine gute Idee. Wer kontaktiert die Kunden, die sich beschwert haben?",
+          "Person B:",
+          "Das könnte ich übernehmen. Was könnte man ihnen als Entschädigung anbieten?",
+          "Person A:",
+          "Ich schlage vor, dass wir ihnen einen Gutschein im Wert von 20 Euro anbieten.",
+          "Person B:",
+          "Das ist zwar ein guter Vorschlag, aber bei vielen Kunden könnte das sehr teuer werden.",
+          "Person A:",
+          "Da haben Sie recht. Vielleicht wäre es besser, wenn wir einen Preisnachlass von zehn Prozent anbieten.",
+          "Person B:",
+          "Damit bin ich einverstanden. Außerdem könnten wir uns schriftlich entschuldigen.",
+          "Person A:",
+          "Dem kann ich nur zustimmen. Was halten Sie davon, wenn wir dem Lieferanten gleichzeitig eine letzte Frist setzen?",
+          "Person B:",
+          "Ich weiß nicht. Vielleicht sollten wir zuerst ein persönliches Gespräch mit ihm führen.",
+          "Person A:",
+          "Das finde ich besser. Wenn es danach noch zu Beschwerden kommt, könnten wir einen anderen Lieferanten nehmen.",
+          "Person B:",
+          "Ein inländischer Anbieter wäre zwar teurer, hätte aber kürzere Lieferzeiten.",
+          "Person A:",
+          "Ja, das ist eine gute Möglichkeit. Als Kompromiss schlage ich vor, dass wir dem jetzigen Lieferanten noch eine letzte Chance geben und gleichzeitig Angebote von anderen Firmen einholen.",
+          "Person B:",
+          "Einverstanden. Dann kontaktieren Sie den Lieferanten und ich kümmere mich um die Kunden.",
+          "Person A:",
+          "Gut, so machen wir es."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lektion-D: Redemittel – Termine absagen, vorschlagen und verschieben",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Absagen / Verneinen",
+        "items": [
+          {
+            "phrase": "Leider muss ich absagen, weil …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Leider muss ich absagen, weil ich an diesem Tag krankheitsbedingt nicht arbeiten kann."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich muss den Termin leider absagen, da …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich muss den Termin leider absagen, da ich kurzfristig zu einer Dienstreise fahren muss."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich habe leider am … keine Zeit, weil …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich habe leider am Mittwoch keine Zeit, weil ich an einer Schulung teilnehme."
+              }
+            ]
+          },
+          {
+            "phrase": "Leider habe ich ausgerechnet am … einen anderen Termin / Urlaub …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Leider habe ich ausgerechnet am Freitag einen anderen wichtigen Termin."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Leider habe ich ausgerechnet in dieser Woche Urlaub.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich kann leider am … nicht kommen / teilnehmen, weil …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Ich kann leider am Montag nicht an der Besprechung teilnehmen, weil ich einen Arzttermin habe.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Es tut mir sehr leid, aber ich kann zu diesem Termin nicht, weil …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Es tut mir sehr leid, aber ich kann zu diesem Termin nicht kommen, weil ich bereits einen Kundentermin habe.",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Einen Terminvorschlag machen",
+        "items": [
+          {
+            "phrase": "Könnten wir nicht am … die Besprechung / die Tagung / das Meeting abhalten?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Könnten wir nicht am Donnerstagvormittag die Besprechung abhalten?"
+              }
+            ]
+          },
+          {
+            "phrase": "Was halten Sie von folgendem Vorschlag: …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Was halten Sie von folgendem Vorschlag: Wir treffen uns am Dienstag um 14 Uhr."
+              }
+            ]
+          },
+          {
+            "phrase": "Wir könnten doch am …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wir könnten doch am Freitag nach der Mittagspause zusammenkommen."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich schlage vor, dass wir am …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich schlage vor, dass wir am kommenden Mittwoch um 10 Uhr die Besprechung durchführen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Einen Termin verschieben",
+        "items": [
+          {
+            "phrase": "Könnten Sie nicht den Termin um eine Woche / einen Tag / eine Stunde verschieben?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Könnten Sie den Termin vielleicht um eine Woche verschieben?"
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Könnten Sie den Termin um eine Stunde nach hinten verschieben?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich hätte am … Zeit."
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Ich hätte am Donnerstag ab 15 Uhr Zeit.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Vielleicht wäre es möglich, den Termin auf … zu verschieben?"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Vielleicht wäre es möglich, den Termin auf Montagvormittag zu verschieben?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wir sollten den Termin auf … verschieben."
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Wir sollten den Termin auf nächste Woche verschieben.",
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Kurzer Beispieldialog",
+        "lines": [
+          "Frau Keller: Guten Tag, Herr Braun. Ich muss den Termin am Mittwoch leider absagen, da ich an einer Schulung teilnehme.",
+          "Herr Braun: Das ist schade. Wann hätten Sie denn Zeit?",
+          "Frau Keller: Ich hätte am Donnerstag ab 15 Uhr Zeit.",
+          "Herr Braun: Am Donnerstag kann ich leider nicht teilnehmen, weil ich einen Kundentermin habe.",
+          "Frau Keller: Was halten Sie von folgendem Vorschlag: Wir treffen uns am Freitag um 10 Uhr?",
+          "Herr Braun: Freitagvormittag passt mir gut.",
+          "Frau Keller: Dann schlage ich vor, dass wir die Besprechung am Freitag um 10 Uhr abhalten.",
+          "Herr Braun: Einverstanden. Dann verschieben wir den Termin auf Freitag."
+        ]
+      },
+      {
+        "title": "Formelle E-Mail zur Terminverschiebung",
+        "lines": [
+          "Betreff: Bitte um Verschiebung unseres Termins",
+          "Sehr geehrte Frau Keller,",
+          "leider kann ich am vereinbarten Termin am Mittwoch, den 15. Juli, nicht teilnehmen, da ich kurzfristig an einer wichtigen Schulung teilnehmen muss.",
+          "Es tut mir sehr leid, aber ich muss den Termin daher absagen. Vielleicht wäre es möglich, ihn auf Freitag, den 17. Juli, um 10 Uhr zu verschieben. Alternativ hätte ich am Donnerstag ab 15 Uhr Zeit.",
+          "Bitte teilen Sie mir mit, welcher Termin Ihnen besser passt.",
+          "Mit freundlichen Grüßen",
+          "Sajjad Unar"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lektion-E: Redemittel – Forumsbeitrag B2 mit Beispielen",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Anrede",
+        "items": [
+          {
+            "phrase": "Liebe Kolleginnen und Kollegen,",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Liebe Kolleginnen und Kollegen,"
+              }
+            ]
+          },
+          {
+            "phrase": "Liebe Forumsmitglieder,",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Liebe Forumsmitglieder,"
+              }
+            ]
+          },
+          {
+            "phrase": "Hallo zusammen,",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Hallo zusammen,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Einleitung",
+        "items": [
+          {
+            "phrase": "Habt ihr schon davon gehört, dass …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Habt ihr schon davon gehört, dass unsere Firma einen neuen Raucherraum einrichten möchte?"
+              }
+            ]
+          },
+          {
+            "phrase": "Wisst ihr schon, dass …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wisst ihr schon, dass ab dem nächsten Monat neue Arbeitszeiten gelten sollen?"
+              }
+            ]
+          },
+          {
+            "phrase": "Ich möchte zu diesem Thema Stellung nehmen.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich möchte zu diesem Thema Stellung nehmen, weil die Entscheidung alle Mitarbeitenden betrifft."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Die eigene Meinung äußern",
+        "items": [
+          {
+            "phrase": "Meiner Auffassung nach ist dieses Thema sehr aktuell / problematisch, weil …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Meiner Auffassung nach ist dieses Thema sehr problematisch, weil die Gesundheit aller Beschäftigten berücksichtigt werden muss."
+              }
+            ]
+          },
+          {
+            "phrase": "Persönlich halte ich … für eine gute / schlechte Idee.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Persönlich halte ich die Einrichtung eines Raucherraums für eine schlechte Idee."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich bin sicher, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich bin sicher, dass ein Rauchverbot in allen Innenräumen die bessere Lösung wäre."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich bin davon überzeugt, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich bin davon überzeugt, dass klare Regeln das Zusammenleben im Betrieb erleichtern."
+              }
+            ]
+          },
+          {
+            "phrase": "Eine solche Idee scheint mir unwahrscheinlich / sinnvoll / problematisch, weil …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Eine solche Idee scheint mir problematisch, weil dadurch zusätzliche Kosten entstehen würden."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Pro-Argumente nennen",
+        "items": [
+          {
+            "phrase": "Dafür spricht, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Dafür spricht, dass rauchende Mitarbeitende dann einen festen Aufenthaltsort hätten."
+              }
+            ]
+          },
+          {
+            "phrase": "… hat den großen Vorteil, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ein eigener Raucherbereich hat den großen Vorteil, dass andere Mitarbeitende weniger durch Rauch gestört werden."
+              }
+            ]
+          },
+          {
+            "phrase": "Einerseits …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Einerseits könnte ein Raucherraum verhindern, dass vor dem Haupteingang geraucht wird."
+              }
+            ]
+          },
+          {
+            "phrase": "Weitere passende Redemittel",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ein weiterer Vorteil ist, dass …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Ein weiterer Vorteil ist, dass die Pausenbereiche besser organisiert werden könnten.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Außerdem sollte man berücksichtigen, dass …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Außerdem sollte man berücksichtigen, dass rauchende Beschäftigte ebenfalls einen geeigneten Pausenplatz brauchen.",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "number": "5",
+        "title": "Gegenargumente nennen",
+        "items": [
+          {
+            "phrase": "Gegen … spricht, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Gegen einen Raucherraum spricht, dass die Einrichtung und Belüftung hohe Kosten verursachen würden."
+              }
+            ]
+          },
+          {
+            "phrase": "Dagegen spricht, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Dagegen spricht, dass Rauch trotz Belüftung in andere Räume gelangen könnte."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich kann zwar verstehen, dass …, aber …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich kann zwar verstehen, dass Raucher einen geschützten Bereich möchten, aber der Gesundheitsschutz sollte wichtiger sein."
+              }
+            ]
+          },
+          {
+            "phrase": "Weniger gut finde ich, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Weniger gut finde ich, dass der Raum von allen Mitarbeitenden mitfinanziert werden müsste."
+              }
+            ]
+          },
+          {
+            "phrase": "Weitere passende Redemittel",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Andererseits …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Andererseits könnte ein Raucherraum falsche Signale zum Thema Gesundheit senden.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ein Nachteil wäre, dass …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Ein Nachteil wäre, dass zusätzliche Reinigungs- und Wartungskosten entstehen.",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "number": "6",
+        "title": "Vorschläge machen",
+        "items": [
+          {
+            "phrase": "Ich schlage vor, dass …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich schlage vor, dass außerhalb des Gebäudes ein überdachter Raucherbereich eingerichtet wird."
+              }
+            ]
+          },
+          {
+            "phrase": "Wie wäre es, wenn …?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wie wäre es, wenn wir zunächst alle Mitarbeitenden zu diesem Thema befragen würden?"
+              }
+            ]
+          },
+          {
+            "phrase": "Wir könnten / sollten …",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Wir könnten einen wettergeschützten Bereich im Innenhof einrichten."
+              }
+            ],
+            "_next_label": "Weiteres Beispiel"
+          },
+          {
+            "phrase": "Wir sollten gleichzeitig Programme zur Raucherentwöhnung anbieten.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Meiner Meinung nach sollten wir …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Meiner Meinung nach sollten wir eine Lösung finden, die sowohl die Raucher als auch die Nichtraucher berücksichtigt.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Mein Vorschlag wäre, dass …"
+              }
+            ],
+            "_next_label": "Beispiel"
+          },
+          {
+            "phrase": "Mein Vorschlag wäre, dass die Geschäftsleitung mehrere Möglichkeiten prüft und anschließend eine Abstimmung durchführt.",
+            "examples": []
+          }
+        ]
+      },
+      {
+        "number": "7",
+        "title": "Schlusssatz",
+        "items": [
+          {
+            "phrase": "Das war meine Meinung. Wie findet ihr das?",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Das war meine Meinung. Wie findet ihr das?"
+              }
+            ]
+          },
+          {
+            "phrase": "Schreibt mir doch eure Meinung. Es würde mich freuen, etwas von euch zu hören.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Schreibt mir doch eure Meinung. Es würde mich freuen, etwas von euch zu hören."
+              }
+            ]
+          },
+          {
+            "phrase": "Ich bin gespannt auf eure Meinung.",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Ich bin gespannt auf eure Meinung und auf eure Vorschläge."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "8",
+        "title": "Name",
+        "items": [
+          {
+            "phrase": "Viele Grüße",
+            "examples": [
+              {
+                "label": "Beispiel",
+                "text": "Sajjad"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "special_blocks": [
+      {
+        "title": "Hinweise",
+        "lines": [
+          "Das Dokument zeigt einen klaren Aufbau für einen Forumsbeitrag im DTB/BSK-B2-Kontext: Anrede, Einleitung, eigene Meinung, Pro-Argumente, Gegenargumente, Vorschläge, Schlusssatz und Name. Außerdem wird betont, dass besonders die Inhaltspunkte, sprachliche Korrektheit, Satzverknüpfungen und der klare Aufbau bewertet werden."
+        ]
+      },
+      {
+        "title": "Vollständiges Beispiel eines Forumsbeitrags",
+        "lines": [
+          "Thema: Raucherraum im Betrieb",
+          "Liebe Kolleginnen und Kollegen,",
+          "habt ihr schon davon gehört, dass unsere Firma einen Raucherraum im Gebäude einrichten möchte? Ich möchte zu diesem Thema Stellung nehmen, weil diese Entscheidung alle Mitarbeitenden betrifft.",
+          "Persönlich halte ich einen Raucherraum im Gebäude eher für eine schlechte Idee. Ich bin davon überzeugt, dass die Gesundheit der Beschäftigten an erster Stelle stehen sollte.",
+          "Dafür spricht zwar, dass rauchende Mitarbeitende dann einen festen Aufenthaltsort hätten. Ein solcher Raum hätte außerdem den Vorteil, dass nicht mehr direkt vor dem Haupteingang geraucht würde.",
+          "Dagegen spricht jedoch, dass die Einrichtung und Belüftung eines solchen Raums hohe Kosten verursachen würden. Ich kann zwar verstehen, dass Raucher einen geschützten Bereich möchten, aber Rauch könnte trotzdem in andere Räume gelangen. Weniger gut finde ich außerdem, dass alle Mitarbeitenden die zusätzlichen Kosten indirekt mittragen müssten.",
+          "Ich schlage deshalb vor, dass außerhalb des Gebäudes ein überdachter Raucherbereich eingerichtet wird. Wie wäre es außerdem, wenn die Firma Kurse zur Raucherentwöhnung anbieten würde? Meiner Meinung nach wäre das eine faire und gesundheitlich bessere Lösung.",
+          "Das war meine Meinung. Wie findet ihr das? Ich bin gespannt auf eure Vorschläge.",
+          "Viele Grüße",
+          "Sajjad"
+        ]
+      },
+      {
+        "title": "Praktischer Aufbau für die Prüfung",
+        "lines": [
+          "Anrede",
+          "Thema nennen",
+          "Eigene Meinung",
+          "Mindestens ein Pro-Argument",
+          "Mindestens ein Gegenargument",
+          "Konkreter Vorschlag",
+          "Leser nach ihrer Meinung fragen",
+          "Name"
+        ]
+      },
+      {
+        "title": "Wichtig ist, die Sätze mit Wörtern wie weil, obwohl, wenn, dass, einerseits, andererseits, außerdem, deshalb und trotzdem miteinander zu verbinden.",
+        "lines": []
+      }
+    ]
+  }
+]

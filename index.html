@@ -20,6 +20,8 @@ body{background:var(--page-bg);color:var(--page-text);font-family:Inter,sans-ser
 <body><main class="container py-4"><section class="content-card p-4 p-md-5">
 <div class="toolbar mb-2"><h1 class="h3 mb-0">📖 Generalisiertes Wörterbuch</h1><button id="themeBtn" class="btn btn-sm btn-outline-secondary btn-theme">🌙 Theme</button></div>
 <p class="text-secondary">A1 · A2 · B1 · B2 · C1 · C2 · BSK_B2 — German, English, examples, grammar and collocations. <small class="d-block mt-1">Data files: words.json + BSK_B2_words.json</small></p>
+<nav class="mb-3 d-flex gap-2 flex-wrap"><a class="btn btn-primary btn-sm" href="dictionary.html">📖 Wörterbuch</a><a class="btn btn-outline-primary btn-sm" href="redemittel.html">💬 Redemittel & Verbindungen</a></nav>
+<div id="loadStatus" class="small text-secondary mb-2">Loading dictionary data…</div>
 <div class="search-wrap"><input id="search" class="searchbox" placeholder="Search German, English, example or collocation …">
 <div class="mt-2"><input id="classificationSearch" class="searchbox" list="classificationOptions" placeholder="Search classification: Lektion 1, Nomen-Verb-Verbindung, Verb mit Präposition …"><datalist id="classificationOptions"></datalist></div></div>
 <div class="toolbar mb-2"><strong>Level:</strong><div class="filters" id="levelFilters"></div><span class="stats" id="count">0 words</span></div>
