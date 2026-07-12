@@ -1,5 +1,5 @@
 # Generalized German Dictionary
-By Sajjad Hussain
+
 A GitHub Pages-ready searchable dictionary for **A1, A2, B1, B2, C1, C2 and BSK_B2**.
 
 ## Included
@@ -27,3 +27,8 @@ The imported vocabulary and design originated from the supplied dictionary file.
 ## Classification field
 
 Every vocabulary object now contains a `classification` field. It may contain a lesson and section, for example `Lektion 3 – Maria Carreras bewirbt sich um eine neue Stelle | Verben | Verb mit Präposition`, or a special label such as `Nomen-Verb-Verbindung`. When no explicit classification is available, its value is an empty string (`""`).
+
+
+## Important data file
+
+`index.html` loads `words.json`. This package contains all A1–C2 and BSK_B2 entries in that file (6,240 total). Upload `index.html` and `words.json` to the same GitHub folder.

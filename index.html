@@ -38,11 +38,29 @@ function makeFilters(){
  const pf=document.querySelector('#posFilters'); POS.forEach(([x,t])=>{let b=document.createElement('button');b.textContent=t;b.dataset.v=x;b.onclick=()=>{pos=x;active(pf,x);render()};pf.append(b)});active(pf,'ALL');
 }
 function active(root,v){root.querySelectorAll('button').forEach(b=>b.classList.toggle('active',b.dataset.v===v))}
-function filtered(){return words.filter(w=>(level==='ALL'||w.level===level)&&(pos==='ALL'||w.pos===pos)&&(!query||norm([w.german,w.article,w.english,w.example_de,w.example_en,w.grammar,...(w.collocations||[])].join(' ')).includes(query)))}
-function card(w){let col=(w.collocations||[]).map(x=>`<span>${esc(x)}</span>`).join('');return `<article class="word-card"><div class="word-main"><span class="word-de">${esc(w.german)}</span>${w.article?`<span>${esc(w.article)}</span>`:''}<span class="badge rounded-pill" style="background:${colors[w.level]||'#64748b'}">${esc(w.level)}</span><span class="word-en">${esc(w.english)}</span>${w.grammar?`<div class="grammar"><b>+</b> ${esc(w.grammar)}</div>`:''}${w.example_de?`<div class="word-example"><span>${esc(w.example_de)}</span><br><span class="ex-en">${esc(w.example_en)}</span>${col?`<div class="collocations">${col}</div>`:''}</div>`:''}</div></article>`}
+function filtered(){return words.filter(w=>(level==='ALL'||w.level===level)&&(pos==='ALL'||w.pos===pos)&&(!query||norm([w.german,w.article,w.english,w.example_de,w.example_en,w.grammar,w.classification,...(w.collocations||[])].join(' ')).includes(query)))}
+function card(w){let col=(w.collocations||[]).map(x=>`<span>${esc(x)}</span>`).join('');return `<article class="word-card"><div class="word-main"><span class="word-de">${esc(w.german)}</span>${w.article?`<span>${esc(w.article)}</span>`:''}<span class="badge rounded-pill" style="background:${colors[w.level]||'#64748b'}">${esc(w.level)}</span><span class="word-en">${esc(w.english)}</span>${w.classification?`<div class="small text-secondary mt-1">${esc(w.classification)}</div>`:''}${w.grammar?`<div class="grammar"><b>+</b> ${esc(w.grammar)}</div>`:''}${w.example_de?`<div class="word-example"><span>${esc(w.example_de)}</span><br><span class="ex-en">${esc(w.example_en)}</span>${col?`<div class="collocations">${col}</div>`:''}</div>`:''}</div></article>`}
 function render(){let a=filtered();document.querySelector('#count').textContent=`${a.length} word${a.length===1?'':'s'}`;document.querySelector('#list').innerHTML=a.map(card).join('');document.querySelector('#empty').hidden=!!a.length}
 function quiz(n){let pool=filtered();if(!pool.length)return;pool=[...pool].sort(()=>Math.random()-.5).slice(0,Math.min(n,pool.length));let i=0,score=0;const q=document.querySelector('#quiz');q.classList.add('show');function show(){let w=pool[i];q.innerHTML=`<div class="d-flex justify-content-between"><b>Question ${i+1}/${pool.length}</b><span>Score: ${score}</span></div><h3 class="my-3">${esc(w.german)}</h3><input id="qa" class="form-control" placeholder="English meaning"><div id="ans" class="answer mt-3"><b>Answer:</b> ${esc(w.english)}<br><small>${esc(w.example_de)}</small></div><div class="mt-3"><button id="check" class="btn btn-success btn-sm">Check</button> <button id="next" class="btn btn-primary btn-sm" disabled>Next</button> <button id="closeq" class="btn btn-outline-secondary btn-sm">Close</button></div>`;q.querySelector('#check').onclick=()=>{let ok=norm(q.querySelector('#qa').value).split(/[,;/]/).some(x=>x.trim()&&norm(w.english).includes(x.trim()));if(ok)score++;q.querySelector('#ans').classList.add('show');q.querySelector('#next').disabled=false};q.querySelector('#next').onclick=()=>{i++;if(i>=pool.length){q.innerHTML=`<h3>Finished</h3><p>Your score: <b>${score}/${pool.length}</b></p><button class="btn btn-primary btn-sm" onclick="document.querySelector('#quiz').classList.remove('show')">Close</button>`}else show()};q.querySelector('#closeq').onclick=()=>q.classList.remove('show')};show();q.scrollIntoView({behavior:'smooth'})}
 document.querySelector('#search').addEventListener('input',e=>{query=norm(e.target.value);render()});document.querySelector('#quiz20').onclick=()=>quiz(20);document.querySelector('#quiz30').onclick=()=>quiz(30);document.querySelector('#clear').onclick=()=>{level=pos='ALL';query='';document.querySelector('#search').value='';active(document.querySelector('#levelFilters'),'ALL');active(document.querySelector('#posFilters'),'ALL');render()};
 document.querySelector('#themeBtn').onclick=()=>{let d=document.documentElement,n=d.getAttribute('data-bs-theme')==='dark'?'light':'dark';d.setAttribute('data-bs-theme',n);localStorage.setItem('theme',n)};document.documentElement.setAttribute('data-bs-theme',localStorage.getItem('theme')||'light');
-makeFilters();fetch('words.json').then(r=>r.json()).then(x=>{words=x;render()}).catch(()=>{document.querySelector('#list').innerHTML='<div class="alert alert-warning">Run through GitHub Pages or a local web server; browsers block JSON loading from file://.</div>'});
+makeFilters();
+async function loadDictionary(){
+  const files=['words.json','words_all.json','German_dictionary_A1_C2_BSK_B2.json'];
+  let lastError;
+  for(const file of files){
+    try{
+      const r=await fetch(file,{cache:'no-store'});
+      if(!r.ok) throw new Error(`${file}: HTTP ${r.status}`);
+      const data=await r.json();
+      if(!Array.isArray(data)) throw new Error(`${file}: JSON root is not an array`);
+      words=data;
+      render();
+      return;
+    }catch(err){lastError=err;}
+  }
+  console.error(lastError);
+  document.querySelector('#list').innerHTML='<div class="alert alert-warning">Dictionary data could not be loaded. Upload <strong>words.json</strong> beside index.html and reload the page.</div>';
+}
+loadDictionary();
 </script></body></html>
