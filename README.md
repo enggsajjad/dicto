@@ -1,5 +1,5 @@
 # Generalized German Dictionary
-
+By Sajjad Hussain
 A GitHub Pages-ready searchable dictionary for **A1, A2, B1, B2, C1, C2 and BSK_B2**.
 
 ## Included
