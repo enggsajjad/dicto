@@ -68,12 +68,30 @@ function buildClassificationOptions(){
   });
   document.querySelector('#classificationOptions').innerHTML=[...values].sort((a,b)=>a.localeCompare(b,'de')).map(x=>`<option value="${esc(x)}"></option>`).join('');
 }
+async function fetchFirstAvailable(candidates){
+  const errors=[];
+  for(const filename of candidates){
+    try{
+      const url=new URL(filename,document.baseURI);
+      url.searchParams.set('v','20260712-robust2');
+      const response=await fetch(url.toString(),{cache:'no-store'});
+      if(!response.ok) throw new Error(`${response.status} ${response.statusText}`);
+      const data=await response.json();
+      if(!Array.isArray(data)) throw new Error('JSON root is not an array');
+      return {data,filename};
+    }catch(error){errors.push(`${filename}: ${error.message}`)}
+  }
+  throw new Error(errors.join(' | '));
+}
 async function loadDictionary(){
+  const status=document.querySelector('#loadStatus');
   try{
-    const [generalWords,bskWords]=await Promise.all([
-      fetchJson('words.json'),
-      fetchJson('BSK_B2_words.json')
+    const [generalResult,bskResult]=await Promise.all([
+      fetchFirstAvailable(['words.json','general_dictionary_with_classification.json','German_dictionary_A1_C2.json']),
+      fetchFirstAvailable(['BSK_B2_words.json','BSK_B2_words_with_classification.json','BSK-B2_words.json','bsk_b2_words.json'])
     ]);
+    const generalWords=generalResult.data;
+    const bskWords=bskResult.data;
     const merged=[...generalWords,...bskWords].map(normalizeEntry);
     const seen=new Set();
     words=merged.filter(w=>{
@@ -83,10 +101,12 @@ async function loadDictionary(){
     });
     buildClassificationOptions();
     render();
-    console.info(`Loaded ${generalWords.length} general and ${bskWords.length} BSK_B2 entries.`);
+    const bskCount=words.filter(w=>w.level==='BSK_B2').length;
+    status.innerHTML=`Loaded <strong>${words.length}</strong> words: ${generalWords.length} general + <strong>${bskCount} BSK_B2</strong>. Classification search is active. <span class="text-muted">Files: ${esc(generalResult.filename)}, ${esc(bskResult.filename)}</span>`;
   }catch(error){
     console.error(error);
-    document.querySelector('#list').innerHTML='<div class="alert alert-warning"><strong>Dictionary data could not be loaded.</strong><br>Keep <code>index.html</code>, <code>words.json</code>, and <code>BSK_B2_words.json</code> in the same GitHub folder. Open the page through GitHub Pages, not directly from your computer.</div>';
+    status.innerHTML='<span class="text-danger">Dictionary loading failed.</span>';
+    document.querySelector('#list').innerHTML=`<div class="alert alert-warning"><strong>Dictionary data could not be loaded.</strong><br>${esc(error.message)}<hr>Keep the HTML and JSON files in the same GitHub folder. Filenames are case-sensitive.</div>`;
   }
 }
 loadDictionary();
