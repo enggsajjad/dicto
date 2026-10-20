@@ -150,3 +150,12 @@ Each test preserves its original exercise modes: **Multiple Choice**, **Lückent
 ```
 
 The test selection page will display it automatically.
+
+
+## 🖨️ Druckerei Deutsch – Berufsdeutsch B1–C1
+
+Neue Lernseite: [`druckerei/index.html`](druckerei/index.html) (auf GitHub Pages unter `/dicto/druckerei/`).
+
+Enthält neun Lektionen mit deutsch-englischen Dialogen, Fachwortschatz und Übungsaufgaben zu Kundenservice, Telefonaten, Angeboten, Produktion, Buchhaltung, Online-Bestellung und Datenschutz. Das Material ist eine didaktisch redigierte Zusammenstellung und keine wortgetreue Abschrift der Chatgespräche.
+
+Die Startseite, das Wörterbuch, die Redemittel-Seite und die BSK-B2-Testübersicht enthalten einen zusätzlichen Menülink. Daten, Tests, Manifest, Icons und Veröffentlichungseinstellungen wurden nicht verändert.
