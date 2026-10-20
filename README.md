@@ -159,3 +159,10 @@ Neue Lernseite: [`druckerei/index.html`](druckerei/index.html) (auf GitHub Pages
 Enthält neun Lektionen mit deutsch-englischen Dialogen, Fachwortschatz und Übungsaufgaben zu Kundenservice, Telefonaten, Angeboten, Produktion, Buchhaltung, Online-Bestellung und Datenschutz. Das Material ist eine didaktisch redigierte Zusammenstellung und keine wortgetreue Abschrift der Chatgespräche.
 
 Die Startseite, das Wörterbuch, die Redemittel-Seite und die BSK-B2-Testübersicht enthalten einen zusätzlichen Menülink. Daten, Tests, Manifest, Icons und Veröffentlichungseinstellungen wurden nicht verändert.
+
+
+### Anhang D – Druckerei-Fachbegriffe
+
+Unter [`druckerei/fachbegriffe.html`](druckerei/fachbegriffe.html) steht ein ergänzender deutsch-englischer Fachwortschatz zu 15 Themengebieten bereit (Druckmaschinen, Scanner, Papier, Grammatur, Formate, Farben, Prepress, Druckprodukte, Bindungen, Veredelung, Textildruck, Stickerei, Schreibwaren, Preise, Online-Bestellung und Kundenservice).
+
+Die Seite ist aus dem Druckerei-Lernbuch verlinkt, durchsuchbar, nach Themen filterbar und unterstützt optionale Browser-Sprachausgabe. Bestehende JSON-Daten, Tests und GitHub-Pages-Einstellungen bleiben unverändert. Die Begriffe wurden didaktisch aufbereitet und nicht wortgetreu aus dem älteren Chat exportiert.
